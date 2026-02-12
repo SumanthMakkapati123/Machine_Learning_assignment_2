@@ -1,0 +1,919 @@
+Date,HomeTeam,AwayTeam,FTR,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
+2021-08-13,M'gladbach,Bayern Munich,D,11,20,5,10,7,4,3,8,2,0,0,0
+2021-08-14,Augsburg,Hoffenheim,A,7,15,0,8,8,9,6,5,1,2,0,0
+2021-08-14,Bielefeld,Freiburg,D,10,14,4,6,13,10,4,9,3,4,0,0
+2021-08-14,Stuttgart,Greuther Furth,H,30,8,15,4,11,8,9,2,0,1,0,0
+2021-08-14,Union Berlin,Leverkusen,D,8,16,5,4,13,5,1,6,0,1,0,0
+2021-08-14,Wolfsburg,Bochum,H,21,7,9,1,9,7,5,2,0,2,0,1
+2021-08-14,Dortmund,Ein Frankfurt,H,12,12,7,3,5,14,7,3,0,0,0,0
+2021-08-15,Mainz,RB Leipzig,H,7,15,2,2,10,8,5,11,1,2,0,0
+2021-08-15,FC Koln,Hertha,H,15,11,5,5,18,14,4,5,4,2,0,0
+2021-08-20,RB Leipzig,Stuttgart,H,26,11,11,5,10,11,6,2,0,3,0,0
+2021-08-21,Leverkusen,M'gladbach,H,13,11,6,6,9,11,7,3,4,2,0,0
+2021-08-21,Hertha,Wolfsburg,A,12,12,4,3,12,21,4,4,1,2,0,0
+2021-08-21,Greuther Furth,Bielefeld,D,20,9,5,2,12,15,5,0,4,2,0,1
+2021-08-21,Bochum,Mainz,H,9,16,5,3,15,19,2,7,4,3,0,0
+2021-08-21,Ein Frankfurt,Augsburg,D,20,4,5,0,8,10,6,1,3,3,0,0
+2021-08-21,Freiburg,Dortmund,H,8,19,4,2,14,14,0,10,1,4,0,0
+2021-08-22,Hoffenheim,Union Berlin,D,7,11,3,8,8,11,6,5,1,3,0,1
+2021-08-22,Bayern Munich,FC Koln,H,18,10,6,3,14,10,3,4,1,1,0,0
+2021-08-27,Dortmund,Hoffenheim,H,23,9,13,5,9,12,4,7,2,3,0,0
+2021-08-28,Stuttgart,Freiburg,A,17,14,7,7,10,14,8,5,2,1,0,0
+2021-08-28,Bayern Munich,Hertha,H,17,8,6,3,4,5,8,3,0,0,0,0
+2021-08-28,Mainz,Greuther Furth,H,17,8,9,1,21,14,7,4,2,2,0,0
+2021-08-28,Augsburg,Leverkusen,A,13,13,4,5,12,10,4,4,0,1,0,0
+2021-08-28,Bielefeld,Ein Frankfurt,D,14,12,5,3,13,17,4,4,0,3,0,0
+2021-08-28,FC Koln,Bochum,H,21,10,5,1,11,21,5,5,2,1,0,0
+2021-08-29,Union Berlin,M'gladbach,H,12,18,4,5,15,6,4,8,2,0,0,0
+2021-08-29,Wolfsburg,RB Leipzig,H,8,12,2,2,13,18,7,7,4,2,0,0
+2021-09-11,Freiburg,FC Koln,D,10,15,3,5,14,12,4,2,1,3,0,1
+2021-09-11,Greuther Furth,Wolfsburg,A,7,10,3,4,17,15,3,5,2,3,0,0
+2021-09-11,Hoffenheim,Mainz,A,12,11,0,4,15,16,4,5,2,1,0,0
+2021-09-11,Leverkusen,Dortmund,A,11,15,5,7,10,11,4,3,4,3,0,0
+2021-09-11,Union Berlin,Augsburg,D,15,13,6,6,10,12,6,4,1,2,0,0
+2021-09-11,RB Leipzig,Bayern Munich,A,10,18,4,6,9,13,2,6,0,0,0,0
+2021-09-12,Ein Frankfurt,Stuttgart,D,18,9,5,3,13,12,6,6,1,4,0,1
+2021-09-12,Bochum,Hertha,A,19,5,5,4,9,17,7,2,0,3,0,0
+2021-09-12,M'gladbach,Bielefeld,H,17,18,4,7,10,18,3,4,1,1,0,0
+2021-09-17,Hertha,Greuther Furth,H,15,10,3,3,12,13,9,4,1,2,0,0
+2021-09-18,FC Koln,RB Leipzig,D,14,18,6,9,12,6,4,10,3,1,0,0
+2021-09-18,Mainz,Freiburg,D,10,7,3,2,18,16,4,4,2,1,0,0
+2021-09-18,Augsburg,M'gladbach,H,8,11,1,1,13,9,2,6,1,2,0,0
+2021-09-18,Bayern Munich,Bochum,H,22,5,15,1,5,9,2,2,1,1,0,0
+2021-09-18,Bielefeld,Hoffenheim,D,9,16,2,3,16,3,5,6,2,1,0,0
+2021-09-19,Stuttgart,Leverkusen,A,18,7,8,4,11,11,2,6,2,3,0,1
+2021-09-19,Dortmund,Union Berlin,H,13,9,4,6,10,12,3,6,2,3,0,0
+2021-09-19,Wolfsburg,Ein Frankfurt,D,15,6,6,2,14,18,7,4,2,6,0,0
+2021-09-24,Greuther Furth,Bayern Munich,A,11,12,6,4,18,13,6,3,4,1,0,1
+2021-09-25,Ein Frankfurt,FC Koln,D,10,15,3,2,11,19,7,6,2,3,0,0
+2021-09-25,Hoffenheim,Wolfsburg,H,11,13,3,2,13,9,5,2,2,2,0,0
+2021-09-25,RB Leipzig,Hertha,H,18,5,11,3,8,19,2,1,1,3,0,0
+2021-09-25,Union Berlin,Bielefeld,H,17,9,4,2,9,5,5,4,1,0,0,0
+2021-09-25,M'gladbach,Dortmund,H,14,8,3,0,17,15,5,1,4,4,0,1
+2021-09-25,Leverkusen,Mainz,H,16,14,9,5,11,12,6,3,4,3,0,0
+2021-09-26,Bochum,Stuttgart,D,14,8,4,3,15,12,7,2,2,5,0,0
+2021-09-26,Freiburg,Augsburg,H,19,8,9,2,11,13,6,3,0,1,0,0
+2021-10-01,FC Koln,Greuther Furth,H,18,7,8,3,16,18,8,1,1,1,0,0
+2021-10-02,Wolfsburg,M'gladbach,A,10,19,5,11,17,10,4,6,7,3,1,0
+2021-10-02,RB Leipzig,Bochum,H,15,9,9,2,10,16,2,3,1,1,0,0
+2021-10-02,Stuttgart,Hoffenheim,H,12,13,6,4,14,12,9,4,0,1,0,0
+2021-10-02,Dortmund,Augsburg,H,17,5,3,3,9,16,7,3,1,3,0,0
+2021-10-02,Hertha,Freiburg,A,12,9,3,4,17,15,4,9,3,0,0,0
+2021-10-03,Mainz,Union Berlin,A,11,15,4,3,15,6,2,5,2,4,1,0
+2021-10-03,Bayern Munich,Ein Frankfurt,A,21,5,11,3,6,8,10,1,2,1,0,0
+2021-10-03,Bielefeld,Leverkusen,A,10,19,3,7,13,7,2,4,4,1,0,0
+2021-10-15,Hoffenheim,FC Koln,H,14,10,8,0,13,7,3,3,1,1,0,0
+2021-10-16,M'gladbach,Stuttgart,D,31,5,8,2,14,21,9,1,3,3,0,0
+2021-10-16,Union Berlin,Wolfsburg,H,6,13,3,4,7,16,3,3,3,1,0,0
+2021-10-16,Greuther Furth,Bochum,A,12,9,3,2,16,16,4,3,2,4,0,0
+2021-10-16,Freiburg,RB Leipzig,D,15,13,2,4,10,17,8,5,0,4,0,0
+2021-10-16,Dortmund,Mainz,H,11,5,5,2,7,12,6,2,2,4,0,0
+2021-10-16,Ein Frankfurt,Hertha,A,13,12,5,6,17,16,7,4,1,2,0,0
+2021-10-17,Leverkusen,Bayern Munich,A,7,27,4,11,9,9,4,7,0,0,0,0
+2021-10-17,Augsburg,Bielefeld,D,14,10,6,3,8,15,9,5,3,1,0,0
+2021-10-22,Mainz,Augsburg,H,19,6,8,2,9,11,6,2,1,3,0,0
+2021-10-23,Hertha,M'gladbach,H,10,10,4,1,11,21,2,6,2,2,0,0
+2021-10-23,Wolfsburg,Freiburg,A,17,11,4,4,17,15,7,1,3,0,0,0
+2021-10-23,RB Leipzig,Greuther Furth,H,13,8,5,4,15,12,3,4,2,0,0,0
+2021-10-23,Bielefeld,Dortmund,A,13,14,6,7,13,9,7,2,1,0,0,0
+2021-10-23,Bayern Munich,Hoffenheim,H,15,9,7,2,4,18,4,2,0,4,0,0
+2021-10-24,FC Koln,Leverkusen,D,17,9,5,6,10,15,6,6,1,3,0,0
+2021-10-24,Stuttgart,Union Berlin,D,8,11,2,3,16,13,1,2,3,1,1,0
+2021-10-24,Bochum,Ein Frankfurt,H,19,14,7,6,9,11,4,7,0,2,0,0
+2021-10-29,Hoffenheim,Hertha,H,14,5,3,2,15,9,9,4,2,1,0,1
+2021-10-30,Ein Frankfurt,RB Leipzig,D,12,15,3,7,11,9,5,5,1,1,0,0
+2021-10-30,Union Berlin,Bayern Munich,A,9,14,6,6,9,7,6,1,1,1,0,0
+2021-10-30,Leverkusen,Wolfsburg,A,12,13,1,8,11,15,10,2,3,2,0,1
+2021-10-30,Freiburg,Greuther Furth,H,12,8,5,4,10,13,5,2,0,2,0,0
+2021-10-30,Dortmund,FC Koln,H,7,19,4,6,10,11,4,3,2,3,0,0
+2021-10-30,Bielefeld,Mainz,A,15,16,7,6,16,9,6,6,2,3,0,0
+2021-10-31,Augsburg,Stuttgart,H,20,12,12,3,15,12,7,5,3,4,0,0
+2021-10-31,M'gladbach,Bochum,H,14,11,5,4,7,15,9,1,1,1,0,0
+2021-11-05,Mainz,M'gladbach,D,19,11,8,5,15,8,9,1,3,3,0,0
+2021-11-06,RB Leipzig,Dortmund,H,15,9,7,3,12,18,5,6,3,5,0,0
+2021-11-06,Wolfsburg,Augsburg,H,9,13,4,3,14,13,0,8,2,3,0,0
+2021-11-06,Stuttgart,Bielefeld,A,9,15,4,2,11,11,8,4,0,3,0,0
+2021-11-06,Bochum,Hoffenheim,H,14,9,4,1,7,20,2,4,1,5,0,0
+2021-11-06,Bayern Munich,Freiburg,H,29,14,11,4,5,13,6,4,0,0,0,0
+2021-11-07,Hertha,Leverkusen,D,15,8,5,3,13,13,5,6,1,3,0,0
+2021-11-07,FC Koln,Union Berlin,D,16,9,5,3,8,19,5,2,2,2,0,0
+2021-11-07,Greuther Furth,Ein Frankfurt,A,20,14,2,4,12,17,6,3,4,1,0,0
+2021-11-19,Augsburg,Bayern Munich,H,6,18,3,4,18,9,1,10,2,1,0,0
+2021-11-20,Union Berlin,Hertha,H,16,6,5,3,17,13,7,6,1,1,0,0
+2021-11-20,M'gladbach,Greuther Furth,H,19,4,11,2,11,13,7,7,1,3,0,0
+2021-11-20,Leverkusen,Bochum,H,11,19,5,7,10,13,7,7,3,2,0,0
+2021-11-20,Hoffenheim,RB Leipzig,H,24,4,8,0,17,18,7,2,2,2,0,0
+2021-11-20,Dortmund,Stuttgart,H,20,12,4,4,11,14,2,3,0,2,0,0
+2021-11-20,Bielefeld,Wolfsburg,D,10,13,3,5,15,9,6,5,4,1,0,0
+2021-11-21,Freiburg,Ein Frankfurt,A,20,13,6,7,10,16,10,4,0,4,0,0
+2021-11-21,Mainz,FC Koln,D,11,12,2,6,18,7,5,7,2,1,0,0
+2021-11-26,Stuttgart,Mainz,H,8,18,3,5,7,17,5,6,2,2,0,0
+2021-11-27,Bayern Munich,Bielefeld,H,23,8,9,0,8,13,13,4,1,1,0,0
+2021-11-27,Hertha,Augsburg,D,10,20,4,7,11,14,5,6,2,3,0,0
+2021-11-27,Wolfsburg,Dortmund,A,15,16,7,8,9,11,7,7,4,1,0,0
+2021-11-27,FC Koln,M'gladbach,H,15,15,9,5,15,11,4,4,1,3,0,0
+2021-11-27,Bochum,Freiburg,H,13,22,5,11,12,13,4,7,2,1,0,0
+2021-11-27,Greuther Furth,Hoffenheim,A,14,20,7,11,17,17,4,10,1,0,0,0
+2021-11-28,Ein Frankfurt,Union Berlin,H,17,7,4,4,4,7,7,2,0,4,0,0
+2021-11-28,RB Leipzig,Leverkusen,A,14,11,3,4,10,9,7,2,1,3,0,0
+2021-12-03,Union Berlin,RB Leipzig,H,14,11,5,2,12,8,5,7,1,1,0,0
+2021-12-04,Dortmund,Bayern Munich,A,11,16,4,6,10,10,4,6,2,2,0,0
+2021-12-04,Mainz,Wolfsburg,H,12,16,5,0,18,10,6,5,1,1,0,0
+2021-12-04,Leverkusen,Greuther Furth,H,13,8,8,3,13,8,4,3,0,1,0,0
+2021-12-04,Hoffenheim,Ein Frankfurt,H,8,17,4,2,9,12,4,6,2,2,0,0
+2021-12-04,Augsburg,Bochum,A,16,12,7,6,9,6,13,6,0,2,0,0
+2021-12-04,Bielefeld,FC Koln,D,18,9,5,3,14,10,7,1,1,1,0,0
+2021-12-05,Stuttgart,Hertha,D,10,15,3,8,9,16,7,5,0,1,0,0
+2021-12-05,M'gladbach,Freiburg,A,19,15,3,8,12,15,3,3,2,1,0,0
+2021-12-10,FC Koln,Augsburg,A,14,12,4,4,12,15,9,4,2,4,0,0
+2021-12-11,Wolfsburg,Stuttgart,A,19,12,3,3,17,9,5,3,2,2,0,0
+2021-12-11,Hertha,Bielefeld,H,18,9,9,1,10,15,6,4,1,1,0,0
+2021-12-11,RB Leipzig,M'gladbach,H,19,12,10,4,20,15,6,0,3,2,0,0
+2021-12-11,Bochum,Dortmund,D,4,23,3,8,8,18,0,15,0,3,0,0
+2021-12-11,Bayern Munich,Mainz,H,21,9,7,4,9,10,7,2,3,3,0,0
+2021-12-11,Freiburg,Hoffenheim,A,14,14,6,8,13,9,6,7,4,3,0,0
+2021-12-12,Greuther Furth,Union Berlin,H,5,14,3,4,12,6,3,7,3,0,0,0
+2021-12-12,Ein Frankfurt,Leverkusen,H,15,11,7,4,11,11,7,4,0,3,0,0
+2021-12-14,Stuttgart,Bayern Munich,A,13,25,1,12,7,7,1,3,1,1,0,0
+2021-12-14,Bielefeld,Bochum,H,13,5,4,3,13,9,6,2,2,2,0,0
+2021-12-14,Mainz,Hertha,H,21,7,11,1,10,14,4,1,0,2,0,0
+2021-12-14,Wolfsburg,FC Koln,A,19,19,5,6,18,9,9,5,3,2,0,0
+2021-12-15,Union Berlin,Freiburg,D,18,8,5,2,10,12,4,3,1,1,0,0
+2021-12-15,Leverkusen,Hoffenheim,D,17,14,9,6,12,4,6,3,5,3,1,0
+2021-12-15,Augsburg,RB Leipzig,D,9,13,2,4,14,7,6,8,2,0,0,0
+2021-12-15,M'gladbach,Ein Frankfurt,A,19,12,8,5,8,19,7,1,2,5,0,1
+2021-12-15,Dortmund,Greuther Furth,H,12,7,5,1,10,10,5,8,2,2,0,0
+2021-12-17,Bayern Munich,Wolfsburg,H,24,7,9,2,10,4,5,3,0,0,0,0
+2021-12-18,Hertha,Dortmund,H,14,9,5,3,4,19,1,5,0,1,0,0
+2021-12-18,Bochum,Union Berlin,A,13,9,3,3,13,9,1,5,2,0,0,0
+2021-12-18,Ein Frankfurt,Mainz,H,13,11,4,5,11,9,8,6,0,1,0,0
+2021-12-18,Greuther Furth,Augsburg,D,4,14,1,5,8,13,6,5,2,3,0,0
+2021-12-18,Hoffenheim,M'gladbach,D,21,11,8,5,6,9,15,3,2,2,0,0
+2021-12-18,RB Leipzig,Bielefeld,A,15,4,4,4,6,16,10,1,0,2,0,1
+2021-12-19,FC Koln,Stuttgart,H,8,6,2,2,17,13,2,1,3,1,0,0
+2021-12-19,Freiburg,Leverkusen,H,14,6,6,4,6,8,4,8,2,3,0,0
+2022-01-07,Bayern Munich,M'gladbach,A,19,9,8,3,18,11,6,6,0,1,0,0
+2022-01-08,Freiburg,Bielefeld,D,18,15,6,5,6,5,7,12,2,1,0,0
+2022-01-08,Greuther Furth,Stuttgart,D,10,18,3,3,8,12,1,5,0,1,0,0
+2022-01-08,Hoffenheim,Augsburg,H,12,9,5,4,17,8,2,4,1,0,0,0
+2022-01-08,Leverkusen,Union Berlin,D,17,17,8,7,8,11,11,5,1,2,0,0
+2022-01-08,RB Leipzig,Mainz,H,16,2,8,1,6,10,6,1,0,2,0,1
+2022-01-08,Ein Frankfurt,Dortmund,A,12,21,5,8,14,6,4,11,3,2,0,0
+2022-01-09,Hertha,FC Koln,A,10,14,5,8,9,16,10,4,3,1,0,0
+2022-01-09,Bochum,Wolfsburg,H,12,12,3,4,15,18,4,2,1,2,0,0
+2022-01-14,Dortmund,Freiburg,H,20,4,8,4,8,8,9,2,2,0,0,0
+2022-01-15,M'gladbach,Leverkusen,A,16,29,6,13,8,18,5,7,2,3,0,0
+2022-01-15,Wolfsburg,Hertha,D,7,6,3,2,12,12,3,2,1,1,0,0
+2022-01-15,Union Berlin,Hoffenheim,H,6,12,3,5,10,11,0,8,0,3,0,0
+2022-01-15,FC Koln,Bayern Munich,A,11,19,3,9,6,10,5,12,1,0,0,0
+2022-01-15,Mainz,Bochum,H,20,12,5,3,19,14,7,3,3,3,0,0
+2022-01-15,Stuttgart,RB Leipzig,A,16,7,10,3,12,13,5,1,3,1,0,0
+2022-01-16,Augsburg,Ein Frankfurt,D,12,14,5,4,12,14,4,3,3,3,0,0
+2022-01-16,Bielefeld,Greuther Furth,D,13,6,5,3,16,6,3,5,4,1,0,0
+2022-01-21,Ein Frankfurt,Bielefeld,A,17,8,7,5,7,10,10,1,4,2,0,0
+2022-01-22,M'gladbach,Union Berlin,A,12,6,5,3,11,19,4,1,1,2,0,0
+2022-01-22,Bochum,FC Koln,D,17,7,7,3,11,12,1,5,0,3,0,0
+2022-01-22,Leverkusen,Augsburg,H,22,14,12,5,8,7,9,5,1,2,0,0
+2022-01-22,Freiburg,Stuttgart,H,16,7,4,1,12,7,6,3,1,1,0,0
+2022-01-22,Greuther Furth,Mainz,H,11,16,7,4,12,15,7,8,1,1,0,0
+2022-01-22,Hoffenheim,Dortmund,A,14,3,2,2,14,7,7,3,2,2,0,0
+2022-01-23,RB Leipzig,Wolfsburg,H,12,9,4,3,17,16,4,3,5,1,0,0
+2022-01-23,Hertha,Bayern Munich,A,5,29,2,20,9,9,4,9,1,0,0,0
+2022-02-04,Hertha,Bochum,D,13,9,2,4,14,22,4,7,3,1,0,0
+2022-02-05,Bayern Munich,RB Leipzig,H,25,13,8,7,11,12,2,0,1,3,0,0
+2022-02-05,Stuttgart,Ein Frankfurt,A,15,15,6,6,7,12,3,14,0,0,0,0
+2022-02-05,Mainz,Hoffenheim,H,9,12,4,2,12,13,5,3,0,2,0,0
+2022-02-05,Bielefeld,M'gladbach,D,10,22,5,4,15,10,5,11,3,3,0,0
+2022-02-05,Augsburg,Union Berlin,H,14,14,9,4,8,16,4,6,0,2,0,0
+2022-02-05,FC Koln,Freiburg,H,14,18,3,2,14,16,8,8,2,2,0,0
+2022-02-06,Dortmund,Leverkusen,A,14,10,6,7,8,10,7,6,1,1,0,0
+2022-02-06,Wolfsburg,Greuther Furth,H,11,8,6,4,11,13,2,3,1,2,0,0
+2022-02-11,RB Leipzig,FC Koln,H,6,9,4,2,6,11,5,6,1,2,0,0
+2022-02-12,M'gladbach,Augsburg,H,14,14,5,8,8,12,3,2,2,2,0,0
+2022-02-12,Leverkusen,Stuttgart,H,20,8,6,5,10,6,10,0,3,2,0,0
+2022-02-12,Greuther Furth,Hertha,H,19,24,10,8,11,12,8,8,2,4,0,0
+2022-02-12,Ein Frankfurt,Wolfsburg,A,16,11,2,3,12,9,10,1,1,2,0,0
+2022-02-12,Freiburg,Mainz,D,16,20,5,5,14,15,7,3,0,2,0,0
+2022-02-12,Bochum,Bayern Munich,H,12,22,7,4,13,7,4,9,2,1,0,0
+2022-02-13,Union Berlin,Dortmund,A,12,10,2,6,20,9,2,5,4,1,0,0
+2022-02-13,Hoffenheim,Bielefeld,H,25,8,9,4,12,12,13,3,2,0,0,0
+2022-02-18,Mainz,Leverkusen,H,17,8,5,6,15,13,6,2,2,2,0,0
+2022-02-19,FC Koln,Ein Frankfurt,H,13,10,8,2,9,16,5,6,1,2,0,0
+2022-02-19,Stuttgart,Bochum,D,15,13,7,5,7,17,6,0,0,4,0,0
+2022-02-19,Wolfsburg,Hoffenheim,A,14,10,6,4,10,17,5,2,1,2,0,0
+2022-02-19,Augsburg,Freiburg,A,18,15,4,5,11,8,11,4,1,1,0,0
+2022-02-19,Bielefeld,Union Berlin,H,11,11,3,4,6,15,6,4,0,2,0,0
+2022-02-20,Bayern Munich,Greuther Furth,H,22,8,8,3,15,17,6,4,2,1,0,0
+2022-02-20,Dortmund,M'gladbach,H,16,8,10,5,17,11,5,5,2,1,0,0
+2022-02-20,Hertha,RB Leipzig,A,8,16,4,10,10,8,3,10,2,3,1,0
+2022-02-25,Hoffenheim,Stuttgart,H,19,13,7,4,14,13,9,3,3,2,0,0
+2022-02-26,Union Berlin,Mainz,H,7,14,3,1,13,18,2,6,4,4,0,1
+2022-02-26,Ein Frankfurt,Bayern Munich,A,7,20,2,9,16,3,2,8,1,2,0,0
+2022-02-26,M'gladbach,Wolfsburg,D,23,6,11,3,12,14,7,4,2,4,0,1
+2022-02-26,Leverkusen,Bielefeld,H,21,8,9,3,8,10,6,3,0,1,0,0
+2022-02-26,Greuther Furth,FC Koln,D,13,17,5,5,15,13,7,11,1,2,0,0
+2022-02-26,Freiburg,Hertha,H,16,17,5,2,13,10,6,6,1,2,0,0
+2022-02-27,Bochum,RB Leipzig,A,13,6,2,1,15,9,5,0,1,1,0,0
+2022-02-27,Augsburg,Dortmund,D,8,11,3,7,15,8,5,5,2,1,0,0
+2022-03-04,Bielefeld,Augsburg,A,6,7,1,1,12,10,6,1,3,5,0,0
+2022-03-05,Bayern Munich,Leverkusen,D,20,9,6,2,10,14,7,2,1,2,0,0
+2022-03-05,Bochum,Greuther Furth,H,15,9,9,2,16,14,3,6,2,4,0,0
+2022-03-05,Hertha,Ein Frankfurt,A,10,12,4,6,10,16,3,8,2,2,0,0
+2022-03-05,RB Leipzig,Freiburg,D,14,4,5,3,8,15,4,1,1,0,0,0
+2022-03-05,Wolfsburg,Union Berlin,H,9,17,3,5,12,15,6,10,0,1,0,0
+2022-03-05,Stuttgart,M'gladbach,H,18,9,7,3,7,10,5,2,1,2,0,0
+2022-03-06,FC Koln,Hoffenheim,A,10,13,3,3,9,12,4,1,1,4,0,0
+2022-03-12,Freiburg,Wolfsburg,H,16,11,8,5,11,9,7,5,2,0,0,0
+2022-03-12,Hoffenheim,Bayern Munich,D,9,18,6,8,12,9,3,8,4,1,0,0
+2022-03-12,Union Berlin,Stuttgart,D,11,11,3,3,25,12,3,3,3,2,0,0
+2022-03-12,M'gladbach,Hertha,H,12,12,5,3,7,17,3,6,3,0,0,0
+2022-03-13,Greuther Furth,RB Leipzig,A,7,12,1,7,9,8,0,2,2,0,0,0
+2022-03-13,Ein Frankfurt,Bochum,H,14,8,3,4,10,15,9,3,3,4,0,0
+2022-03-13,Leverkusen,FC Koln,A,15,6,3,3,13,19,7,0,2,2,0,0
+2022-03-13,Dortmund,Bielefeld,H,20,11,3,4,6,10,4,5,1,1,0,0
+2022-03-16,Mainz,Dortmund,A,10,11,1,4,18,10,5,5,3,4,0,0
+2022-03-18,Bochum,M'gladbach,A,15,8,7,5,12,10,7,3,2,1,0,0
+2022-03-19,Greuther Furth,Freiburg,D,8,13,1,3,15,9,1,11,1,0,0,0
+2022-03-19,Hertha,Hoffenheim,H,13,8,6,0,10,13,1,6,2,1,0,0
+2022-03-19,Mainz,Bielefeld,H,14,6,6,0,10,14,6,1,1,0,0,0
+2022-03-19,Stuttgart,Augsburg,H,24,10,9,4,13,17,8,0,2,3,0,0
+2022-03-19,Bayern Munich,Union Berlin,H,16,9,7,4,8,7,3,2,2,1,0,0
+2022-03-20,FC Koln,Dortmund,D,10,9,1,3,13,16,7,5,2,3,0,0
+2022-03-20,Wolfsburg,Leverkusen,A,18,17,4,7,6,13,7,7,2,3,0,0
+2022-03-20,RB Leipzig,Ein Frankfurt,D,14,5,7,0,6,21,3,2,1,5,0,0
+2022-04-01,Union Berlin,FC Koln,H,13,6,5,1,17,11,2,4,3,3,0,0
+2022-04-02,Bielefeld,Stuttgart,D,10,14,4,4,13,12,6,2,1,5,0,0
+2022-04-02,Ein Frankfurt,Greuther Furth,D,20,4,6,2,10,14,9,0,1,0,0,0
+2022-04-02,Freiburg,Bayern Munich,A,8,21,3,11,13,6,1,6,1,1,0,0
+2022-04-02,Hoffenheim,Bochum,A,14,20,7,6,9,11,5,6,3,2,0,0
+2022-04-02,Leverkusen,Hertha,H,18,7,7,4,13,11,3,3,0,1,0,0
+2022-04-02,Dortmund,RB Leipzig,A,10,11,2,5,7,10,7,5,3,1,0,0
+2022-04-03,M'gladbach,Mainz,D,17,22,8,10,13,20,3,7,2,1,0,0
+2022-04-03,Augsburg,Wolfsburg,H,13,17,5,5,15,11,3,5,1,0,0,0
+2022-04-06,Augsburg,Mainz,H,14,17,4,3,16,18,5,7,3,2,0,0
+2022-04-08,Stuttgart,Dortmund,A,13,10,2,4,8,6,4,5,2,1,0,0
+2022-04-09,Bayern Munich,Augsburg,H,13,6,4,1,10,22,3,3,1,2,0,0
+2022-04-09,FC Koln,Mainz,H,13,9,5,6,19,23,8,5,2,2,0,0
+2022-04-09,Greuther Furth,M'gladbach,A,10,18,1,7,12,8,3,5,1,0,0,0
+2022-04-09,Wolfsburg,Bielefeld,H,11,6,6,3,11,13,3,2,0,1,0,0
+2022-04-09,Hertha,Union Berlin,A,12,17,3,13,11,11,2,8,4,0,0,0
+2022-04-10,RB Leipzig,Hoffenheim,H,11,4,4,0,11,15,2,1,1,2,0,0
+2022-04-10,Ein Frankfurt,Freiburg,A,17,12,5,4,13,9,2,4,1,2,0,0
+2022-04-10,Bochum,Leverkusen,D,11,9,2,2,10,9,2,3,0,0,0,0
+2022-04-16,Augsburg,Hertha,A,13,11,2,1,14,17,1,7,4,4,0,0
+2022-04-16,Dortmund,Wolfsburg,H,12,9,8,4,14,9,4,6,0,2,0,0
+2022-04-16,Freiburg,Bochum,H,14,10,8,2,8,10,3,4,0,0,0,1
+2022-04-16,M'gladbach,FC Koln,A,18,17,4,6,15,19,5,5,3,2,0,0
+2022-04-16,Mainz,Stuttgart,D,9,6,0,3,17,12,5,3,0,1,0,0
+2022-04-17,Leverkusen,RB Leipzig,A,12,4,4,1,18,7,7,1,2,1,0,0
+2022-04-17,Union Berlin,Ein Frankfurt,H,14,10,4,3,10,8,4,3,2,1,0,0
+2022-04-17,Hoffenheim,Greuther Furth,D,16,7,3,1,19,15,10,1,3,3,0,0
+2022-04-17,Bielefeld,Bayern Munich,A,8,24,3,9,11,11,5,4,1,2,0,0
+2022-04-22,Wolfsburg,Mainz,H,15,5,7,3,10,10,2,3,0,2,0,1
+2022-04-23,Ein Frankfurt,Hoffenheim,D,17,11,7,4,10,9,9,7,1,3,0,0
+2022-04-23,FC Koln,Bielefeld,H,19,16,6,4,7,15,5,10,2,3,0,0
+2022-04-23,Freiburg,M'gladbach,D,19,7,8,4,12,12,8,0,1,4,0,0
+2022-04-23,Greuther Furth,Leverkusen,A,9,10,4,5,4,13,6,3,0,0,0,0
+2022-04-23,RB Leipzig,Union Berlin,A,5,12,1,4,13,9,2,5,2,2,0,0
+2022-04-23,Bayern Munich,Dortmund,H,13,7,6,3,9,11,3,1,0,1,0,0
+2022-04-24,Bochum,Augsburg,A,18,12,3,4,10,17,10,4,1,3,0,0
+2022-04-24,Hertha,Stuttgart,H,7,12,2,5,10,8,4,6,1,1,0,0
+2022-04-29,Union Berlin,Greuther Furth,D,6,7,3,2,14,14,2,4,2,2,0,0
+2022-04-30,Mainz,Bayern Munich,H,24,4,7,1,11,11,7,8,0,4,0,0
+2022-04-30,Hoffenheim,Freiburg,A,17,9,7,5,12,6,4,5,1,0,0,0
+2022-04-30,Stuttgart,Wolfsburg,D,18,15,5,5,9,11,7,9,3,2,0,0
+2022-04-30,Dortmund,Bochum,A,19,12,10,5,14,18,10,3,4,3,0,0
+2022-04-30,Bielefeld,Hertha,D,6,9,1,5,14,14,2,6,3,1,0,0
+2022-04-30,Augsburg,FC Koln,A,14,18,5,8,14,14,5,7,2,4,0,0
+2022-05-02,Leverkusen,Ein Frankfurt,H,11,9,3,4,5,8,4,4,0,0,0,0
+2022-05-02,M'gladbach,RB Leipzig,H,9,10,6,7,11,20,3,8,4,2,1,0
+2022-05-06,Bochum,Bielefeld,H,16,14,9,5,9,12,6,2,0,0,0,0
+2022-05-07,FC Koln,Wolfsburg,A,17,5,9,3,12,12,9,2,0,2,0,0
+2022-05-07,Freiburg,Union Berlin,A,18,13,4,5,12,14,4,6,1,2,0,0
+2022-05-07,Greuther Furth,Dortmund,A,8,8,3,4,15,10,5,2,1,1,0,0
+2022-05-07,Hoffenheim,Leverkusen,A,12,15,5,8,14,10,6,7,1,0,0,0
+2022-05-07,Hertha,Mainz,A,10,13,1,6,19,18,3,8,3,1,0,0
+2022-05-08,Ein Frankfurt,M'gladbach,D,18,11,4,7,6,7,9,1,1,0,0,0
+2022-05-08,Bayern Munich,Stuttgart,D,25,15,8,5,10,8,7,4,2,3,1,0
+2022-05-08,RB Leipzig,Augsburg,H,14,6,8,1,8,16,5,1,1,2,0,0
+2022-05-14,Mainz,Ein Frankfurt,D,13,13,4,4,7,11,5,3,2,0,0,0
+2022-05-14,Leverkusen,Freiburg,H,11,13,5,2,6,12,6,9,2,3,0,0
+2022-05-14,Union Berlin,Bochum,H,17,5,11,3,12,7,1,3,3,2,0,0
+2022-05-14,Bielefeld,RB Leipzig,D,8,18,4,9,11,8,2,6,1,1,0,0
+2022-05-14,Augsburg,Greuther Furth,H,8,6,3,3,21,20,3,5,2,3,0,0
+2022-05-14,Dortmund,Hertha,H,9,4,3,1,11,16,3,1,0,2,0,0
+2022-05-14,Wolfsburg,Bayern Munich,D,10,25,2,10,5,10,2,12,1,2,0,0
+2022-05-14,Stuttgart,FC Koln,H,24,16,12,3,15,10,8,10,1,4,0,0
+2022-05-14,M'gladbach,Hoffenheim,H,19,10,9,2,8,12,6,2,1,2,0,0
+2022-08-05,Ein Frankfurt,Bayern Munich,A,8,23,2,10,10,11,5,6,2,0,0,0
+2022-08-06,Dortmund,Leverkusen,H,13,8,4,3,14,13,3,3,2,4,0,1
+2022-08-06,Wolfsburg,Werder Bremen,D,13,10,3,5,11,14,2,5,2,2,0,0
+2022-08-06,Augsburg,Freiburg,A,10,19,2,7,13,13,5,8,0,0,0,0
+2022-08-06,M'gladbach,Hoffenheim,H,18,2,8,1,18,12,4,2,1,4,0,1
+2022-08-06,Bochum,Mainz,A,16,13,3,6,11,16,3,5,2,3,0,0
+2022-08-06,Union Berlin,Hertha,H,18,9,8,3,23,17,5,4,2,3,0,0
+2022-08-07,Stuttgart,RB Leipzig,D,11,27,2,9,14,9,1,9,2,1,0,0
+2022-08-07,FC Koln,Schalke 04,H,30,6,10,2,8,10,9,1,0,1,0,1
+2022-08-12,Freiburg,Dortmund,A,16,16,7,7,16,10,9,2,1,3,0,0
+2022-08-13,Leverkusen,Augsburg,A,23,6,10,4,7,16,7,3,1,6,0,0
+2022-08-13,Hoffenheim,Bochum,H,24,11,13,5,13,10,8,2,1,1,0,0
+2022-08-13,Schalke 04,M'gladbach,D,14,14,5,9,12,8,2,7,4,2,0,0
+2022-08-13,Hertha,Ein Frankfurt,D,11,11,5,1,11,11,4,5,3,1,0,0
+2022-08-13,RB Leipzig,FC Koln,D,9,12,5,3,8,18,2,7,1,4,1,0
+2022-08-13,Werder Bremen,Stuttgart,D,5,14,3,7,6,10,2,5,4,2,0,0
+2022-08-14,Mainz,Union Berlin,D,10,10,5,2,9,14,4,4,1,0,0,0
+2022-08-14,Bayern Munich,Wolfsburg,H,24,7,8,1,7,10,8,4,2,1,0,0
+2022-08-19,M'gladbach,Hertha,H,11,18,6,5,7,11,5,5,1,2,0,1
+2022-08-20,Augsburg,Mainz,A,6,14,2,7,13,19,3,3,2,2,0,0
+2022-08-20,Dortmund,Werder Bremen,A,5,14,3,7,13,9,3,5,4,1,0,0
+2022-08-20,Leverkusen,Hoffenheim,A,14,10,3,5,15,18,3,1,1,4,0,0
+2022-08-20,Stuttgart,Freiburg,A,18,9,5,3,8,12,3,1,4,2,0,0
+2022-08-20,Wolfsburg,Schalke 04,D,16,9,6,2,13,10,12,4,1,3,0,0
+2022-08-20,Union Berlin,RB Leipzig,H,9,16,4,2,14,8,1,13,2,1,0,0
+2022-08-21,Ein Frankfurt,FC Koln,D,10,6,3,2,15,11,5,9,0,1,0,0
+2022-08-21,Bochum,Bayern Munich,A,13,22,7,12,10,6,5,5,1,0,0,0
+2022-08-26,Freiburg,Bochum,H,28,15,12,5,15,13,2,5,2,2,0,0
+2022-08-27,Bayern Munich,M'gladbach,D,35,5,20,3,14,7,14,1,4,2,0,0
+2022-08-27,Schalke 04,Union Berlin,A,12,12,4,7,9,11,8,2,1,0,0,0
+2022-08-27,Mainz,Leverkusen,A,17,7,3,5,10,12,3,4,1,6,0,2
+2022-08-27,Hoffenheim,Augsburg,H,24,12,6,1,14,9,4,6,1,1,0,0
+2022-08-27,RB Leipzig,Wolfsburg,H,16,9,7,4,20,15,8,4,3,3,0,0
+2022-08-27,Hertha,Dortmund,A,12,24,3,7,8,9,6,10,1,0,0,0
+2022-08-28,FC Koln,Stuttgart,D,6,13,2,5,14,12,6,8,2,2,0,1
+2022-08-28,Werder Bremen,Ein Frankfurt,A,10,12,4,7,17,17,5,7,1,3,0,0
+2022-09-02,Dortmund,Hoffenheim,H,16,7,5,2,14,15,5,8,3,4,0,0
+2022-09-03,Bochum,Werder Bremen,A,19,16,6,6,15,10,7,3,2,2,0,0
+2022-09-03,Leverkusen,Freiburg,A,15,5,6,3,15,10,8,4,2,2,0,0
+2022-09-03,Stuttgart,Schalke 04,D,13,13,3,4,11,10,5,7,4,2,1,0
+2022-09-03,Union Berlin,Bayern Munich,D,10,21,3,6,19,7,5,7,1,2,0,0
+2022-09-03,Wolfsburg,FC Koln,A,9,18,3,5,13,14,5,4,2,1,0,0
+2022-09-03,Ein Frankfurt,RB Leipzig,H,14,5,9,0,14,10,4,3,1,1,0,0
+2022-09-04,M'gladbach,Mainz,A,13,12,3,5,8,15,4,8,1,4,1,0
+2022-09-04,Augsburg,Hertha,A,8,16,2,6,12,15,5,1,2,1,0,0
+2022-09-09,Werder Bremen,Augsburg,A,11,14,6,5,12,12,3,7,4,5,0,0
+2022-09-10,Schalke 04,Bochum,H,20,9,8,2,12,16,3,8,2,3,0,0
+2022-09-10,RB Leipzig,Dortmund,H,14,4,5,0,12,6,5,8,2,1,0,0
+2022-09-10,Bayern Munich,Stuttgart,D,18,8,7,3,11,9,3,0,2,5,0,0
+2022-09-10,Hertha,Leverkusen,D,17,11,6,5,15,16,3,5,3,1,0,0
+2022-09-10,Hoffenheim,Mainz,H,21,10,9,2,9,13,7,5,3,2,0,1
+2022-09-10,Ein Frankfurt,Wolfsburg,A,11,6,0,3,16,13,10,5,2,4,0,0
+2022-09-11,FC Koln,Union Berlin,A,7,12,2,3,15,12,7,8,4,1,1,0
+2022-09-11,Freiburg,M'gladbach,D,13,14,8,5,13,6,7,6,1,1,0,0
+2022-09-16,Mainz,Hertha,D,12,4,2,2,12,10,4,3,3,5,0,0
+2022-09-17,Augsburg,Bayern Munich,H,9,21,4,7,16,9,2,8,3,1,0,0
+2022-09-17,Dortmund,Schalke 04,H,19,3,7,0,12,14,11,2,3,2,0,0
+2022-09-17,Leverkusen,Werder Bremen,D,19,19,7,7,5,14,9,6,2,3,0,0
+2022-09-17,Stuttgart,Ein Frankfurt,A,15,13,2,8,9,11,7,4,2,0,0,0
+2022-09-17,M'gladbach,RB Leipzig,H,21,13,10,6,14,14,8,3,2,2,0,0
+2022-09-18,Hoffenheim,Freiburg,D,10,14,3,4,15,9,5,3,1,2,0,0
+2022-09-18,Bochum,FC Koln,D,7,18,0,3,12,8,4,8,0,1,0,0
+2022-09-18,Union Berlin,Wolfsburg,H,16,5,4,0,18,6,4,1,0,0,0,0
+2022-09-30,Bayern Munich,Leverkusen,H,20,10,10,5,10,6,6,2,0,0,0,0
+2022-10-01,Werder Bremen,M'gladbach,H,14,13,9,9,8,8,4,5,0,1,0,0
+2022-10-01,Wolfsburg,Stuttgart,H,20,15,7,7,16,14,8,5,3,5,0,0
+2022-10-01,FC Koln,Dortmund,H,20,21,16,13,14,10,7,11,4,3,0,0
+2022-10-01,Freiburg,Mainz,H,13,17,6,7,9,15,5,5,2,4,0,0
+2022-10-01,Ein Frankfurt,Union Berlin,H,14,14,4,5,4,11,4,7,3,4,1,0
+2022-10-01,RB Leipzig,Bochum,H,17,2,9,1,8,8,7,2,0,2,0,0
+2022-10-02,Hertha,Hoffenheim,D,13,16,5,4,5,15,2,6,2,1,0,0
+2022-10-02,Schalke 04,Augsburg,A,16,11,5,5,11,10,8,4,2,6,0,1
+2022-10-07,Hoffenheim,Werder Bremen,A,16,8,6,3,12,18,3,3,3,3,0,0
+2022-10-08,Augsburg,Wolfsburg,D,18,12,5,7,19,11,11,5,5,3,0,0
+2022-10-08,Bochum,Ein Frankfurt,H,11,11,6,2,12,10,9,4,2,1,0,0
+2022-10-08,Leverkusen,Schalke 04,H,13,2,7,1,9,17,3,3,1,1,0,0
+2022-10-08,Mainz,RB Leipzig,D,9,12,3,3,12,12,4,2,1,1,0,0
+2022-10-08,Dortmund,Bayern Munich,D,13,9,6,3,8,11,7,4,3,6,0,1
+2022-10-09,Stuttgart,Union Berlin,A,9,7,3,4,12,10,2,5,3,3,1,0
+2022-10-09,M'gladbach,FC Koln,H,13,5,6,3,8,14,7,4,2,3,0,1
+2022-10-09,Hertha,Freiburg,D,11,10,3,4,14,13,4,2,2,1,0,0
+2022-10-14,Schalke 04,Hoffenheim,A,14,18,2,7,12,8,4,5,2,2,0,0
+2022-10-15,Werder Bremen,Mainz,A,14,11,4,5,3,11,3,3,1,2,0,0
+2022-10-15,Ein Frankfurt,Leverkusen,H,20,5,11,2,10,9,7,1,0,4,0,1
+2022-10-15,Stuttgart,Bochum,H,16,14,7,4,6,17,3,3,0,3,0,0
+2022-10-15,Wolfsburg,M'gladbach,D,16,10,4,5,13,11,7,6,3,3,0,0
+2022-10-15,RB Leipzig,Hertha,H,14,16,5,5,17,9,8,4,2,3,0,0
+2022-10-16,FC Koln,Augsburg,H,14,7,6,3,11,15,5,3,2,4,0,0
+2022-10-16,Union Berlin,Dortmund,H,14,13,5,6,15,5,5,8,1,2,0,0
+2022-10-16,Bayern Munich,Freiburg,H,18,6,8,0,8,9,5,5,0,2,0,0
+2022-10-21,Mainz,FC Koln,H,15,6,7,2,13,14,5,4,1,5,0,1
+2022-10-22,Augsburg,RB Leipzig,D,11,19,3,8,15,11,3,6,7,1,1,0
+2022-10-22,Dortmund,Stuttgart,H,19,10,10,1,7,8,9,2,1,0,0,0
+2022-10-22,Freiburg,Werder Bremen,H,25,10,7,2,14,12,6,2,2,2,0,1
+2022-10-22,Hoffenheim,Bayern Munich,A,7,23,3,10,12,8,7,5,3,2,0,0
+2022-10-22,Leverkusen,Wolfsburg,D,13,9,5,3,19,5,3,3,3,1,0,0
+2022-10-22,M'gladbach,Ein Frankfurt,A,8,16,3,5,9,20,3,2,3,2,0,0
+2022-10-23,Bochum,Union Berlin,H,8,6,5,3,14,10,3,7,1,3,0,0
+2022-10-23,Hertha,Schalke 04,H,11,9,4,2,14,14,5,6,5,1,0,0
+2022-10-28,Werder Bremen,Hertha,H,15,9,4,1,14,11,4,5,2,3,0,0
+2022-10-29,Ein Frankfurt,Dortmund,A,20,8,8,2,15,11,4,3,5,5,0,0
+2022-10-29,Wolfsburg,Bochum,H,22,10,7,3,7,17,7,2,1,1,0,0
+2022-10-29,Bayern Munich,Mainz,H,25,13,12,5,10,11,8,5,1,1,0,0
+2022-10-29,Stuttgart,Augsburg,H,31,12,8,6,7,12,10,3,1,2,0,0
+2022-10-29,RB Leipzig,Leverkusen,H,10,4,6,1,9,7,3,3,3,3,0,0
+2022-10-30,Union Berlin,M'gladbach,H,14,7,5,3,17,6,6,5,3,2,0,0
+2022-10-30,Schalke 04,Freiburg,A,12,19,3,9,20,7,4,8,3,2,0,0
+2022-10-30,FC Koln,Hoffenheim,D,11,9,3,4,11,10,5,4,1,2,0,1
+2022-11-04,M'gladbach,Stuttgart,H,11,13,6,4,13,16,3,5,2,1,0,0
+2022-11-05,Augsburg,Ein Frankfurt,A,9,12,5,7,17,15,3,6,0,1,0,0
+2022-11-05,Dortmund,Bochum,H,6,7,3,1,7,14,2,5,1,1,0,0
+2022-11-05,Hertha,Bayern Munich,A,7,14,5,4,13,9,2,7,0,0,0,0
+2022-11-05,Hoffenheim,RB Leipzig,A,11,17,3,8,9,9,6,3,4,2,0,0
+2022-11-05,Mainz,Wolfsburg,A,16,10,3,3,15,6,9,4,1,1,0,0
+2022-11-05,Werder Bremen,Schalke 04,H,11,19,5,3,11,12,3,3,3,2,0,0
+2022-11-06,Leverkusen,Union Berlin,H,11,6,8,1,11,17,1,5,1,4,0,0
+2022-11-06,Freiburg,FC Koln,H,13,6,5,2,9,10,5,3,0,1,0,0
+2022-11-08,Stuttgart,Hertha,H,16,11,7,4,9,15,8,5,3,2,0,0
+2022-11-08,Bochum,M'gladbach,H,13,8,4,2,11,14,6,3,1,3,0,0
+2022-11-08,Wolfsburg,Dortmund,H,15,20,8,6,10,12,6,9,4,2,0,0
+2022-11-08,Bayern Munich,Werder Bremen,H,21,4,10,1,9,8,8,4,0,0,0,0
+2022-11-09,Union Berlin,Augsburg,D,18,7,6,2,7,10,6,3,1,4,0,0
+2022-11-09,FC Koln,Leverkusen,A,17,10,7,3,9,7,6,1,1,2,0,0
+2022-11-09,RB Leipzig,Freiburg,H,18,4,8,2,9,21,6,2,1,4,0,0
+2022-11-09,Ein Frankfurt,Hoffenheim,H,15,12,8,3,9,22,4,5,0,3,0,0
+2022-11-09,Schalke 04,Mainz,H,13,11,4,1,16,17,1,6,3,1,0,0
+2022-11-11,M'gladbach,Dortmund,H,11,20,6,10,12,12,2,9,1,2,0,0
+2022-11-12,Augsburg,Bochum,A,19,11,5,4,12,9,6,2,1,1,0,0
+2022-11-12,Hertha,FC Koln,H,17,10,8,2,15,10,10,5,3,1,0,0
+2022-11-12,Hoffenheim,Wolfsburg,A,22,6,8,3,15,11,7,1,0,3,0,0
+2022-11-12,Leverkusen,Stuttgart,H,11,7,3,1,11,10,4,2,2,3,0,0
+2022-11-12,Werder Bremen,RB Leipzig,A,7,14,5,3,14,8,0,4,1,2,0,0
+2022-11-12,Schalke 04,Bayern Munich,A,6,22,2,6,7,4,4,5,0,0,0,0
+2022-11-13,Mainz,Ein Frankfurt,D,19,10,6,3,12,8,5,2,2,2,0,0
+2022-11-13,Freiburg,Union Berlin,H,7,4,5,2,13,9,2,1,0,1,0,1
+2023-01-20,RB Leipzig,Bayern Munich,D,10,7,3,2,17,12,3,2,2,3,0,0
+2023-01-21,FC Koln,Werder Bremen,H,15,4,7,2,10,14,2,2,0,0,0,0
+2023-01-21,Wolfsburg,Freiburg,H,13,9,11,1,11,12,0,5,1,2,0,0
+2023-01-21,Union Berlin,Hoffenheim,H,23,10,5,5,11,13,9,4,2,1,0,0
+2023-01-21,Bochum,Hertha,H,10,10,3,2,13,13,1,6,1,1,0,0
+2023-01-21,Stuttgart,Mainz,D,16,12,4,2,15,17,3,5,1,3,0,0
+2023-01-21,Ein Frankfurt,Schalke 04,H,11,18,3,4,14,10,5,4,2,3,0,0
+2023-01-22,Dortmund,Augsburg,H,27,14,10,4,6,9,7,3,1,4,0,0
+2023-01-22,M'gladbach,Leverkusen,A,15,13,8,5,12,14,2,3,3,2,0,0
+2023-01-24,Schalke 04,RB Leipzig,A,9,21,1,14,16,13,1,6,1,1,0,0
+2023-01-24,Bayern Munich,FC Koln,D,22,2,7,1,7,10,9,4,0,1,0,0
+2023-01-24,Hertha,Wolfsburg,A,8,15,2,7,20,13,6,4,2,0,0,0
+2023-01-24,Hoffenheim,Stuttgart,D,13,8,5,4,12,4,6,4,1,3,0,1
+2023-01-25,Mainz,Dortmund,A,12,12,4,6,15,7,2,3,2,0,0,0
+2023-01-25,Augsburg,M'gladbach,H,14,7,4,2,15,15,3,2,1,2,0,0
+2023-01-25,Freiburg,Ein Frankfurt,D,12,4,5,2,15,15,4,3,3,3,0,0
+2023-01-25,Leverkusen,Bochum,H,11,9,4,2,15,14,3,4,2,4,0,0
+2023-01-25,Werder Bremen,Union Berlin,A,8,11,3,5,11,17,5,7,0,0,0,0
+2023-01-27,RB Leipzig,Stuttgart,H,9,10,4,3,8,6,3,6,0,0,0,0
+2023-01-28,Hoffenheim,M'gladbach,A,15,10,5,5,23,10,4,3,2,1,0,0
+2023-01-28,Freiburg,Augsburg,H,15,16,9,4,14,9,3,7,3,3,0,0
+2023-01-28,Bayern Munich,Ein Frankfurt,D,14,7,6,1,6,4,7,6,3,1,0,0
+2023-01-28,Hertha,Union Berlin,A,10,7,3,3,12,13,3,2,1,2,0,0
+2023-01-28,Mainz,Bochum,H,14,14,7,4,17,11,3,2,0,1,0,0
+2023-01-28,Werder Bremen,Wolfsburg,H,14,7,5,3,16,12,2,6,3,3,0,0
+2023-01-29,Schalke 04,FC Koln,D,15,7,2,0,13,16,7,7,3,4,0,0
+2023-01-29,Leverkusen,Dortmund,A,20,6,7,2,13,20,8,4,2,4,0,0
+2023-02-03,Augsburg,Leverkusen,H,10,12,5,4,14,8,2,1,3,2,0,0
+2023-02-04,Bochum,Hoffenheim,H,17,10,11,4,13,15,6,6,2,3,0,0
+2023-02-04,Dortmund,Freiburg,H,24,6,8,3,13,14,14,0,3,4,0,1
+2023-02-04,Ein Frankfurt,Hertha,H,10,13,4,3,12,10,7,1,1,2,0,0
+2023-02-04,FC Koln,RB Leipzig,D,9,7,0,2,10,15,5,1,3,4,0,0
+2023-02-04,Union Berlin,Mainz,H,9,9,5,2,12,10,5,5,1,1,0,0
+2023-02-04,M'gladbach,Schalke 04,D,17,18,4,5,9,15,9,5,2,3,0,0
+2023-02-05,Stuttgart,Werder Bremen,A,16,9,5,4,8,17,8,4,2,5,0,0
+2023-02-05,Wolfsburg,Bayern Munich,A,19,9,5,4,10,9,7,4,2,6,0,1
+2023-02-10,Schalke 04,Wolfsburg,D,17,8,5,2,10,20,9,3,1,4,0,0
+2023-02-11,Werder Bremen,Dortmund,A,8,17,3,9,7,7,3,7,1,0,0,0
+2023-02-11,RB Leipzig,Union Berlin,A,9,6,1,5,15,13,3,4,4,4,0,0
+2023-02-11,Hoffenheim,Leverkusen,A,11,12,6,5,15,9,5,8,3,1,0,0
+2023-02-11,Freiburg,Stuttgart,H,9,14,5,3,13,10,4,3,3,3,0,0
+2023-02-11,Bayern Munich,Bochum,H,25,7,12,1,10,12,6,3,1,1,0,0
+2023-02-11,Mainz,Augsburg,H,13,11,7,3,12,6,4,12,1,1,0,0
+2023-02-12,Hertha,M'gladbach,H,17,7,7,3,12,11,4,6,1,1,0,0
+2023-02-12,FC Koln,Ein Frankfurt,H,9,7,4,1,15,11,3,9,3,2,0,0
+2023-02-17,Augsburg,Hoffenheim,H,16,8,3,2,13,14,6,1,3,3,0,0
+2023-02-18,Ein Frankfurt,Werder Bremen,H,11,3,6,0,15,9,5,2,1,1,0,0
+2023-02-18,Wolfsburg,RB Leipzig,A,7,17,2,5,16,15,2,5,1,1,0,0
+2023-02-18,M'gladbach,Bayern Munich,H,17,13,7,4,9,9,4,0,0,1,0,1
+2023-02-18,Bochum,Freiburg,A,15,15,6,5,15,10,5,5,4,2,1,0
+2023-02-18,Stuttgart,FC Koln,H,18,11,7,4,10,12,3,6,3,4,0,0
+2023-02-19,Union Berlin,Schalke 04,D,9,6,4,2,13,19,6,4,2,1,0,0
+2023-02-19,Dortmund,Hertha,H,12,15,5,8,8,15,3,4,1,2,0,0
+2023-02-19,Leverkusen,Mainz,A,17,12,7,7,14,19,4,5,5,5,1,0
+2023-02-24,Mainz,M'gladbach,H,14,8,8,2,17,6,3,3,2,3,0,0
+2023-02-25,RB Leipzig,Ein Frankfurt,H,10,8,5,4,11,11,2,6,2,3,0,0
+2023-02-25,Schalke 04,Stuttgart,H,11,17,6,5,12,13,6,9,2,2,0,0
+2023-02-25,Werder Bremen,Bochum,H,12,9,6,2,16,16,2,0,3,2,0,0
+2023-02-25,FC Koln,Wolfsburg,A,11,6,5,4,9,16,10,2,1,2,0,0
+2023-02-25,Hoffenheim,Dortmund,A,13,23,4,11,11,7,12,11,3,1,0,0
+2023-02-25,Hertha,Augsburg,H,11,9,3,2,16,19,1,6,1,3,0,0
+2023-02-26,Bayern Munich,Union Berlin,H,19,4,10,1,8,9,10,4,1,1,0,0
+2023-02-26,Freiburg,Leverkusen,D,9,16,4,4,14,13,1,3,2,1,0,0
+2023-03-03,Dortmund,RB Leipzig,H,8,14,3,6,8,20,4,6,2,5,0,0
+2023-03-04,Augsburg,Werder Bremen,H,9,17,5,8,10,9,3,7,2,2,0,0
+2023-03-04,Bochum,Schalke 04,A,6,9,4,5,17,11,4,4,2,1,0,0
+2023-03-04,Mainz,Hoffenheim,H,16,15,6,4,12,15,11,3,1,4,0,0
+2023-03-04,Union Berlin,FC Koln,D,8,12,2,4,9,10,5,4,1,0,0,0
+2023-03-04,Stuttgart,Bayern Munich,A,11,13,4,6,6,12,3,6,0,0,0,0
+2023-03-04,M'gladbach,Freiburg,D,10,8,4,3,11,15,6,5,5,2,1,0
+2023-03-05,Leverkusen,Hertha,H,18,7,9,2,11,14,9,2,1,2,0,0
+2023-03-05,Wolfsburg,Ein Frankfurt,D,13,10,8,2,11,16,4,5,3,3,0,0
+2023-03-10,FC Koln,Bochum,A,11,9,5,3,9,14,10,1,2,2,0,0
+2023-03-11,Schalke 04,Dortmund,D,10,20,5,8,16,8,3,6,1,1,0,0
+2023-03-11,RB Leipzig,M'gladbach,H,14,7,9,3,9,9,11,0,1,0,0,0
+2023-03-11,Ein Frankfurt,Stuttgart,D,10,9,1,5,16,11,3,2,4,1,0,0
+2023-03-11,Bayern Munich,Augsburg,H,24,13,9,6,8,10,8,5,2,1,0,0
+2023-03-11,Hertha,Mainz,D,9,6,4,3,10,15,7,8,2,1,0,0
+2023-03-12,Freiburg,Hoffenheim,H,9,12,3,1,11,25,2,2,2,5,0,1
+2023-03-12,Werder Bremen,Leverkusen,A,12,13,6,5,12,12,2,3,2,1,0,0
+2023-03-12,Wolfsburg,Union Berlin,D,15,11,6,2,11,14,3,5,1,4,0,0
+2023-03-17,M'gladbach,Werder Bremen,D,21,6,9,3,9,12,6,5,1,1,0,0
+2023-03-18,Dortmund,FC Koln,H,11,11,8,5,7,10,1,6,1,0,0,0
+2023-03-18,Stuttgart,Wolfsburg,A,12,9,2,3,10,8,3,8,1,0,0,0
+2023-03-18,Bochum,RB Leipzig,H,8,21,2,8,10,8,2,7,2,3,0,0
+2023-03-18,Augsburg,Schalke 04,D,9,13,3,5,11,14,9,6,4,4,1,0
+2023-03-18,Hoffenheim,Hertha,H,15,11,7,5,10,11,8,9,0,3,1,0
+2023-03-19,Union Berlin,Ein Frankfurt,H,14,19,3,4,19,15,3,7,3,2,0,0
+2023-03-19,Leverkusen,Bayern Munich,H,12,11,6,6,10,11,5,3,2,3,0,0
+2023-03-19,Mainz,Freiburg,D,10,11,6,5,18,10,3,5,2,3,0,0
+2023-03-31,Ein Frankfurt,Bochum,D,18,8,7,2,14,13,15,2,3,2,0,0
+2023-04-01,Bayern Munich,Dortmund,H,16,10,9,4,11,7,6,2,1,1,0,0
+2023-04-01,Wolfsburg,Augsburg,D,23,5,5,2,9,15,4,7,3,2,0,0
+2023-04-01,Schalke 04,Leverkusen,A,12,18,3,10,20,13,7,5,2,1,0,0
+2023-04-01,RB Leipzig,Mainz,A,12,19,3,7,13,20,3,4,3,3,0,0
+2023-04-01,Freiburg,Hertha,D,16,10,8,3,7,11,2,2,1,1,0,0
+2023-04-01,Union Berlin,Stuttgart,H,13,17,5,8,11,12,3,5,1,1,0,0
+2023-04-02,FC Koln,M'gladbach,D,12,8,5,2,18,8,11,1,3,3,0,0
+2023-04-02,Werder Bremen,Hoffenheim,A,12,8,5,2,11,16,1,6,3,4,0,0
+2023-04-08,Dortmund,Union Berlin,H,14,7,6,2,8,11,8,0,5,2,0,0
+2023-04-08,Freiburg,Bayern Munich,A,10,23,2,8,10,14,2,6,2,2,0,0
+2023-04-08,Leverkusen,Ein Frankfurt,H,13,9,8,3,9,13,2,5,1,5,0,0
+2023-04-08,Mainz,Werder Bremen,D,16,9,10,4,11,22,1,2,1,5,0,0
+2023-04-08,Hertha,RB Leipzig,A,11,18,1,6,12,13,4,4,4,3,0,0
+2023-04-08,Augsburg,FC Koln,A,13,11,1,5,5,11,6,1,3,4,0,0
+2023-04-09,M'gladbach,Wolfsburg,H,13,9,6,2,12,11,5,8,0,1,0,0
+2023-04-09,Bochum,Stuttgart,A,11,14,5,7,12,8,7,4,3,3,0,0
+2023-04-09,Hoffenheim,Schalke 04,H,15,10,4,3,14,13,9,8,3,0,0,0
+2023-04-14,Schalke 04,Hertha,H,14,11,7,5,12,19,7,8,2,3,0,0
+2023-04-15,Bayern Munich,Hoffenheim,D,22,4,7,3,7,10,13,4,2,1,0,0
+2023-04-15,FC Koln,Mainz,D,12,5,4,1,10,15,3,3,3,2,0,0
+2023-04-15,RB Leipzig,Augsburg,H,13,14,6,3,8,11,3,5,2,3,0,0
+2023-04-15,Stuttgart,Dortmund,D,12,15,5,6,7,14,5,7,5,3,1,0
+2023-04-15,Ein Frankfurt,M'gladbach,D,16,4,5,2,16,5,10,2,1,2,0,0
+2023-04-16,Werder Bremen,Freiburg,A,13,6,5,3,13,12,5,2,2,3,0,0
+2023-04-16,Union Berlin,Bochum,D,10,14,2,8,10,7,5,7,2,1,1,0
+2023-04-16,Wolfsburg,Leverkusen,D,11,13,3,4,10,17,2,6,0,5,0,0
+2023-04-21,Augsburg,Stuttgart,D,4,6,1,3,17,12,1,3,5,3,0,0
+2023-04-22,Bochum,Wolfsburg,A,23,15,6,7,11,8,10,3,3,3,0,0
+2023-04-22,Hertha,Werder Bremen,A,13,11,5,4,11,12,8,4,2,2,0,0
+2023-04-22,Hoffenheim,FC Koln,A,11,14,4,7,11,11,2,5,1,2,0,0
+2023-04-22,Mainz,Bayern Munich,H,13,11,4,2,14,6,2,7,2,0,0,0
+2023-04-22,Dortmund,Ein Frankfurt,H,14,9,7,2,10,13,5,2,2,3,0,0
+2023-04-23,Freiburg,Schalke 04,H,25,10,12,4,9,10,6,5,1,2,0,0
+2023-04-23,Leverkusen,RB Leipzig,H,8,26,6,8,10,9,0,9,3,5,0,1
+2023-04-23,M'gladbach,Union Berlin,A,8,14,4,4,10,12,2,2,3,2,0,0
+2023-04-28,Bochum,Dortmund,D,10,21,4,6,13,9,4,11,1,2,0,0
+2023-04-29,Union Berlin,Leverkusen,D,7,8,1,2,9,8,6,4,1,1,0,0
+2023-04-29,Schalke 04,Werder Bremen,H,21,11,10,1,9,17,11,3,4,3,0,0
+2023-04-29,RB Leipzig,Hoffenheim,H,16,5,2,2,9,14,7,1,0,2,0,0
+2023-04-29,FC Koln,Freiburg,A,21,12,8,6,15,7,9,6,1,1,0,0
+2023-04-29,Ein Frankfurt,Augsburg,D,7,9,1,3,6,11,5,7,2,2,0,0
+2023-04-29,Stuttgart,M'gladbach,H,18,9,5,4,11,14,5,8,2,2,0,1
+2023-04-30,Bayern Munich,Hertha,H,25,2,9,1,5,8,18,1,2,0,0,0
+2023-04-30,Wolfsburg,Mainz,H,10,10,4,2,6,10,3,5,1,3,0,0
+2023-05-05,Leverkusen,FC Koln,A,14,7,4,5,8,13,9,2,1,6,0,0
+2023-05-05,Mainz,Schalke 04,A,9,15,4,10,12,10,7,6,4,1,0,0
+2023-05-06,Freiburg,RB Leipzig,A,5,13,2,6,9,11,3,3,2,4,0,0
+2023-05-06,Hertha,Stuttgart,H,7,16,3,4,9,19,3,5,4,1,0,0
+2023-05-06,Hoffenheim,Ein Frankfurt,H,8,19,5,6,17,14,1,11,2,4,1,0
+2023-05-06,M'gladbach,Bochum,H,25,14,9,3,7,13,11,3,2,1,0,0
+2023-05-06,Werder Bremen,Bayern Munich,A,12,12,2,4,14,11,1,11,2,1,0,0
+2023-05-06,Augsburg,Union Berlin,H,11,12,3,4,10,14,3,7,2,2,0,0
+2023-05-07,Dortmund,Wolfsburg,H,20,10,10,3,11,14,10,6,0,1,0,0
+2023-05-12,FC Koln,Hertha,H,28,9,15,3,11,14,12,3,2,7,0,0
+2023-05-13,Wolfsburg,Hoffenheim,H,8,10,3,2,17,12,3,7,2,2,0,0
+2023-05-13,Dortmund,M'gladbach,H,33,13,13,8,10,12,10,4,0,2,0,0
+2023-05-13,Ein Frankfurt,Mainz,H,17,10,7,4,4,10,5,1,1,3,0,0
+2023-05-13,Bochum,Augsburg,H,15,12,8,2,13,16,7,7,3,2,0,0
+2023-05-13,Bayern Munich,Schalke 04,H,23,8,14,0,10,10,4,3,0,3,0,0
+2023-05-13,Union Berlin,Freiburg,H,10,13,4,8,18,13,1,7,3,1,0,0
+2023-05-14,Stuttgart,Leverkusen,D,9,12,1,3,7,14,7,3,3,4,0,0
+2023-05-14,RB Leipzig,Werder Bremen,H,20,6,7,2,12,20,3,2,2,5,0,0
+2023-05-19,Freiburg,Wolfsburg,H,16,9,7,2,15,16,4,4,1,3,1,0
+2023-05-20,Bayern Munich,RB Leipzig,A,17,16,4,8,8,11,7,2,1,1,0,0
+2023-05-20,Hertha,Bochum,D,14,17,4,6,7,10,9,5,1,1,0,0
+2023-05-20,Schalke 04,Ein Frankfurt,D,11,6,4,3,11,16,8,3,3,4,0,0
+2023-05-20,Hoffenheim,Union Berlin,H,10,20,5,4,15,15,1,5,4,5,0,0
+2023-05-20,Werder Bremen,FC Koln,D,13,13,6,4,10,9,4,9,4,2,0,0
+2023-05-21,Augsburg,Dortmund,A,4,28,1,10,12,9,3,8,3,3,1,0
+2023-05-21,Leverkusen,M'gladbach,D,13,9,6,5,12,15,2,3,3,3,1,0
+2023-05-21,Mainz,Stuttgart,A,9,8,6,6,18,11,6,3,3,1,0,0
+2023-05-27,Bochum,Leverkusen,H,10,11,5,2,12,12,2,5,5,5,0,1
+2023-05-27,Dortmund,Mainz,D,30,10,12,4,5,14,6,3,1,1,0,0
+2023-05-27,Ein Frankfurt,Freiburg,H,14,13,8,7,13,10,3,6,4,2,0,0
+2023-05-27,FC Koln,Bayern Munich,A,9,11,3,3,11,8,7,3,3,0,0,0
+2023-05-27,M'gladbach,Augsburg,H,17,9,7,3,5,19,4,4,0,1,0,1
+2023-05-27,RB Leipzig,Schalke 04,H,19,16,12,4,13,11,4,5,2,2,0,0
+2023-05-27,Stuttgart,Hoffenheim,D,19,8,4,2,12,10,9,2,0,0,0,0
+2023-05-27,Wolfsburg,Hertha,A,19,9,9,5,9,18,7,3,1,5,0,0
+2023-05-27,Union Berlin,Werder Bremen,H,16,7,4,4,9,10,15,1,1,3,0,0
+2023-08-18,Werder Bremen,Bayern Munich,A,6,25,1,10,16,11,0,6,2,1,0,0
+2023-08-19,Hoffenheim,Freiburg,A,24,17,5,8,9,9,4,2,0,1,0,0
+2023-08-19,Dortmund,FC Koln,H,12,11,2,4,13,11,6,3,1,0,0,0
+2023-08-19,Wolfsburg,Heidenheim,H,18,13,8,1,10,9,1,7,3,0,0,0
+2023-08-19,Augsburg,M'gladbach,D,20,9,8,6,9,14,8,7,1,2,0,0
+2023-08-19,Leverkusen,RB Leipzig,H,11,13,7,6,13,10,4,5,1,2,0,0
+2023-08-19,Stuttgart,Bochum,H,19,4,9,1,5,12,7,0,1,1,0,0
+2023-08-20,Ein Frankfurt,Darmstadt,H,10,11,4,2,9,14,7,3,2,3,0,0
+2023-08-20,Union Berlin,Mainz,H,12,9,7,3,15,16,3,1,1,5,0,0
+2023-08-25,RB Leipzig,Stuttgart,H,20,8,11,3,12,10,4,4,1,1,0,0
+2023-08-26,Bochum,Dortmund,D,17,13,6,3,21,7,5,4,2,1,0,0
+2023-08-26,Darmstadt,Union Berlin,A,18,12,6,6,15,12,3,5,2,2,0,1
+2023-08-26,FC Koln,Wolfsburg,A,14,9,2,6,6,10,6,1,1,5,0,0
+2023-08-26,Freiburg,Werder Bremen,H,23,16,6,2,9,8,5,5,2,2,0,0
+2023-08-26,Heidenheim,Hoffenheim,A,19,16,9,6,13,9,10,6,1,5,0,0
+2023-08-26,M'gladbach,Leverkusen,A,13,24,2,10,7,8,5,8,2,3,0,0
+2023-08-27,Mainz,Ein Frankfurt,D,13,8,7,2,23,12,5,4,3,4,0,1
+2023-08-27,Bayern Munich,Augsburg,H,19,11,6,2,13,8,10,4,1,2,0,0
+2023-09-01,Dortmund,Heidenheim,D,20,15,9,6,9,22,3,6,3,3,0,0
+2023-09-02,M'gladbach,Bayern Munich,A,8,25,3,9,5,20,1,15,0,2,0,0
+2023-09-02,Werder Bremen,Mainz,H,12,12,6,3,18,14,1,7,2,2,0,0
+2023-09-02,Stuttgart,Freiburg,H,13,11,6,5,9,10,2,4,1,1,0,0
+2023-09-02,Hoffenheim,Wolfsburg,H,11,14,5,7,12,15,3,3,2,2,0,0
+2023-09-02,Augsburg,Bochum,D,11,22,3,9,15,13,3,5,2,2,0,0
+2023-09-02,Leverkusen,Darmstadt,H,24,5,13,1,8,11,4,2,3,2,0,0
+2023-09-03,Ein Frankfurt,FC Koln,D,12,6,4,2,10,10,8,1,1,3,0,0
+2023-09-03,Union Berlin,RB Leipzig,A,4,15,1,8,16,9,3,7,3,1,1,0
+2023-09-15,Bayern Munich,Leverkusen,D,15,12,9,5,6,6,7,4,0,3,0,0
+2023-09-16,Bochum,Ein Frankfurt,D,24,8,10,6,13,14,8,2,3,2,0,0
+2023-09-16,Wolfsburg,Union Berlin,H,8,17,3,5,6,8,3,7,1,0,0,0
+2023-09-16,Mainz,Stuttgart,A,15,16,3,6,12,9,6,4,1,2,0,0
+2023-09-16,Freiburg,Dortmund,A,14,14,4,6,12,16,6,8,2,3,1,0
+2023-09-16,FC Koln,Hoffenheim,A,17,17,7,5,15,14,13,4,4,4,1,0
+2023-09-16,RB Leipzig,Augsburg,H,9,16,6,4,16,12,1,6,0,0,0,0
+2023-09-17,Heidenheim,Werder Bremen,H,19,11,4,4,21,9,10,1,1,1,0,0
+2023-09-17,Darmstadt,M'gladbach,D,15,21,8,10,12,8,6,6,1,1,1,0
+2023-09-22,Stuttgart,Darmstadt,H,18,3,11,0,7,12,5,4,1,6,0,0
+2023-09-23,Werder Bremen,FC Koln,H,17,13,6,5,18,16,9,8,2,1,0,0
+2023-09-23,Union Berlin,Hoffenheim,A,22,11,6,4,11,13,11,6,1,3,0,0
+2023-09-23,M'gladbach,RB Leipzig,A,13,8,1,4,14,7,11,6,1,1,0,0
+2023-09-23,Bayern Munich,Bochum,H,26,4,16,1,8,10,8,1,0,1,0,0
+2023-09-23,Dortmund,Wolfsburg,H,18,8,4,2,9,14,5,3,0,1,0,0
+2023-09-23,Augsburg,Mainz,H,6,13,3,3,16,14,3,4,2,3,1,0
+2023-09-24,Leverkusen,Heidenheim,H,20,1,10,1,9,10,7,2,1,1,0,0
+2023-09-24,Ein Frankfurt,Freiburg,D,13,9,5,2,12,5,7,3,4,2,0,0
+2023-09-29,Hoffenheim,Dortmund,A,15,6,5,5,14,16,4,3,3,4,0,1
+2023-09-30,Bochum,M'gladbach,A,23,25,5,9,12,12,5,10,2,3,0,0
+2023-09-30,FC Koln,Stuttgart,A,14,18,5,4,16,8,8,4,2,1,0,0
+2023-09-30,Heidenheim,Union Berlin,H,9,19,4,8,11,14,5,7,1,2,0,0
+2023-09-30,Wolfsburg,Ein Frankfurt,H,19,7,7,3,11,18,7,4,1,6,0,1
+2023-09-30,RB Leipzig,Bayern Munich,D,7,11,2,5,10,11,5,1,2,5,0,0
+2023-09-30,Mainz,Leverkusen,A,10,6,3,3,13,11,3,1,4,1,0,0
+2023-10-01,Darmstadt,Werder Bremen,H,14,10,5,7,19,19,2,4,3,2,0,0
+2023-10-01,Freiburg,Augsburg,H,7,13,3,4,13,17,2,3,2,2,0,0
+2023-10-06,M'gladbach,Mainz,D,20,13,9,7,9,9,10,3,3,1,0,0
+2023-10-07,Stuttgart,Wolfsburg,H,13,12,7,5,13,14,5,6,1,3,0,0
+2023-10-07,Werder Bremen,Hoffenheim,A,13,11,3,4,15,6,4,4,5,4,0,0
+2023-10-07,RB Leipzig,Bochum,D,18,9,5,2,10,13,9,1,2,4,0,0
+2023-10-07,Augsburg,Darmstadt,A,17,17,3,5,13,12,4,4,4,2,0,0
+2023-10-07,Dortmund,Union Berlin,H,12,12,7,6,7,15,4,6,1,1,0,0
+2023-10-08,Leverkusen,FC Koln,H,21,7,10,3,9,7,11,4,3,0,0,0
+2023-10-08,Bayern Munich,Freiburg,H,21,2,5,0,7,8,7,1,1,0,0,0
+2023-10-08,Ein Frankfurt,Heidenheim,H,12,7,6,2,14,10,3,6,2,3,0,0
+2023-10-20,Dortmund,Werder Bremen,H,22,6,5,1,5,10,10,4,1,5,0,0
+2023-10-21,Darmstadt,RB Leipzig,A,16,10,3,7,16,12,6,0,6,3,0,0
+2023-10-21,Freiburg,Bochum,H,15,13,5,5,11,16,5,2,3,4,0,0
+2023-10-21,Hoffenheim,Ein Frankfurt,A,14,13,5,5,7,7,6,3,3,0,0,0
+2023-10-21,Union Berlin,Stuttgart,A,10,10,2,5,12,12,4,2,2,1,0,0
+2023-10-21,Wolfsburg,Leverkusen,A,18,13,7,6,15,14,4,3,3,5,0,0
+2023-10-21,Mainz,Bayern Munich,A,14,12,3,5,12,10,2,7,3,2,0,0
+2023-10-22,FC Koln,M'gladbach,H,21,5,8,2,13,10,8,3,0,2,0,1
+2023-10-22,Heidenheim,Augsburg,A,16,9,5,6,11,11,6,5,3,2,0,0
+2023-10-27,Bochum,Mainz,D,10,10,4,4,14,21,5,4,3,3,0,0
+2023-10-28,RB Leipzig,FC Koln,H,24,6,13,1,8,13,11,1,2,4,0,1
+2023-10-28,Werder Bremen,Union Berlin,H,9,7,3,2,12,14,3,3,1,4,0,1
+2023-10-28,Stuttgart,Hoffenheim,A,23,7,10,5,13,11,6,0,2,1,0,0
+2023-10-28,Augsburg,Wolfsburg,H,9,13,5,6,19,14,5,5,6,4,1,0
+2023-10-28,M'gladbach,Heidenheim,H,11,8,6,3,5,18,6,4,0,3,0,0
+2023-10-28,Bayern Munich,Darmstadt,H,28,10,16,4,15,13,7,1,1,2,1,2
+2023-10-29,Ein Frankfurt,Dortmund,D,11,14,7,4,11,10,0,4,3,2,0,0
+2023-10-29,Leverkusen,Freiburg,H,19,10,4,4,9,10,11,4,0,2,0,0
+2023-11-03,Darmstadt,Bochum,A,15,9,4,4,7,16,11,2,2,5,1,0
+2023-11-04,FC Koln,Augsburg,D,28,18,12,3,10,10,10,2,1,4,0,0
+2023-11-04,Freiburg,M'gladbach,D,15,10,8,5,7,10,8,2,2,2,0,0
+2023-11-04,Hoffenheim,Leverkusen,A,12,10,7,4,6,10,4,3,3,2,0,0
+2023-11-04,Mainz,RB Leipzig,H,10,10,3,2,13,9,2,7,3,1,0,0
+2023-11-04,Union Berlin,Ein Frankfurt,A,10,4,3,3,13,8,9,1,0,1,0,0
+2023-11-04,Dortmund,Bayern Munich,A,15,14,1,8,14,6,3,2,3,2,0,0
+2023-11-05,Wolfsburg,Werder Bremen,D,15,13,5,4,14,17,5,2,4,1,1,0
+2023-11-05,Heidenheim,Stuttgart,H,19,14,2,2,7,13,9,6,2,2,0,0
+2023-11-10,M'gladbach,Wolfsburg,H,16,12,8,4,7,12,8,5,1,3,0,0
+2023-11-11,Stuttgart,Dortmund,H,22,5,10,1,13,16,6,1,2,3,0,0
+2023-11-11,Bochum,FC Koln,D,25,10,9,6,14,19,3,3,4,1,0,0
+2023-11-11,Bayern Munich,Heidenheim,H,18,7,8,2,8,8,7,2,1,0,0,0
+2023-11-11,Darmstadt,Mainz,D,9,9,3,0,20,15,0,5,3,3,0,0
+2023-11-11,Augsburg,Hoffenheim,D,11,12,6,6,9,11,3,5,1,2,0,0
+2023-11-12,RB Leipzig,Freiburg,H,15,9,6,3,10,12,7,3,2,0,0,0
+2023-11-12,Leverkusen,Union Berlin,H,19,2,10,2,8,5,10,1,0,1,0,0
+2023-11-12,Werder Bremen,Ein Frankfurt,D,14,14,5,3,3,10,3,7,1,3,0,0
+2023-11-24,FC Koln,Bayern Munich,A,6,19,2,5,6,4,3,12,0,1,0,0
+2023-11-25,Dortmund,M'gladbach,H,20,10,13,3,11,11,5,4,1,2,0,0
+2023-11-25,Freiburg,Darmstadt,D,16,7,3,1,15,15,11,2,2,0,0,0
+2023-11-25,Union Berlin,Augsburg,D,16,11,6,2,10,15,3,4,2,2,0,0
+2023-11-25,Werder Bremen,Leverkusen,A,2,13,1,4,15,4,1,6,3,1,0,0
+2023-11-25,Ein Frankfurt,Stuttgart,A,14,11,1,5,14,8,4,2,0,1,0,0
+2023-11-25,Wolfsburg,RB Leipzig,H,10,26,4,10,18,11,1,12,4,2,0,0
+2023-11-26,Heidenheim,Bochum,D,9,9,3,2,14,7,6,5,4,3,0,0
+2023-11-26,Hoffenheim,Mainz,D,15,15,6,6,9,14,4,5,4,4,0,0
+2023-12-01,Darmstadt,FC Koln,A,11,11,1,6,12,12,1,6,1,3,0,0
+2023-12-02,Bochum,Wolfsburg,H,19,15,9,6,14,13,6,6,6,2,0,0
+2023-12-02,M'gladbach,Hoffenheim,H,9,17,3,5,12,14,6,3,2,2,0,0
+2023-12-02,RB Leipzig,Heidenheim,H,23,7,8,1,13,16,5,3,2,2,0,0
+2023-12-02,Stuttgart,Werder Bremen,H,17,11,6,3,7,9,6,7,1,0,0,0
+2023-12-03,Augsburg,Ein Frankfurt,H,9,12,4,6,9,10,2,4,1,1,0,0
+2023-12-03,Leverkusen,Dortmund,D,22,6,6,2,12,12,16,1,3,2,0,0
+2023-12-03,Mainz,Freiburg,A,19,13,6,5,16,11,14,3,1,1,0,0
+2023-12-08,Hoffenheim,Bochum,H,18,22,7,5,18,11,4,5,3,2,0,0
+2023-12-09,Ein Frankfurt,Bayern Munich,H,14,17,6,6,8,7,1,9,1,2,0,0
+2023-12-09,Heidenheim,Darmstadt,H,16,20,7,7,17,13,8,3,2,2,0,0
+2023-12-09,Union Berlin,M'gladbach,H,16,13,6,4,9,8,6,7,1,3,0,0
+2023-12-09,Werder Bremen,Augsburg,H,12,11,5,1,13,9,5,2,1,2,0,0
+2023-12-09,Wolfsburg,Freiburg,A,10,4,3,1,11,16,5,3,1,4,0,0
+2023-12-09,Dortmund,RB Leipzig,A,18,24,6,8,6,11,6,6,1,3,1,0
+2023-12-10,Stuttgart,Leverkusen,D,22,20,12,6,8,7,8,8,1,1,0,0
+2023-12-10,FC Koln,Mainz,D,7,13,3,5,10,10,1,7,2,4,0,0
+2023-12-15,M'gladbach,Werder Bremen,D,15,10,4,5,10,12,4,3,4,2,0,0
+2023-12-16,Bochum,Union Berlin,H,21,10,7,2,12,13,6,4,2,2,0,0
+2023-12-16,Darmstadt,Wolfsburg,A,14,11,4,3,16,10,7,7,2,0,0,1
+2023-12-16,Mainz,Heidenheim,A,16,5,4,2,9,20,8,1,3,3,0,0
+2023-12-16,RB Leipzig,Hoffenheim,H,23,10,11,4,11,9,9,2,3,2,0,0
+2023-12-16,Augsburg,Dortmund,D,20,24,4,6,13,4,4,7,2,1,0,0
+2023-12-17,Freiburg,FC Koln,H,23,7,7,1,13,10,5,2,1,4,0,1
+2023-12-17,Leverkusen,Ein Frankfurt,H,14,4,6,2,4,13,5,5,1,1,0,0
+2023-12-17,Bayern Munich,Stuttgart,H,17,5,8,2,7,8,6,2,0,3,0,0
+2023-12-19,Hoffenheim,Darmstadt,D,13,14,4,3,9,15,8,3,2,4,0,0
+2023-12-19,Werder Bremen,RB Leipzig,D,11,18,3,9,15,9,1,4,4,2,0,0
+2023-12-19,Dortmund,Mainz,D,21,11,8,6,11,14,6,1,0,4,0,0
+2023-12-20,Union Berlin,FC Koln,H,12,15,8,7,10,7,4,5,0,0,0,0
+2023-12-20,Ein Frankfurt,M'gladbach,H,15,7,7,2,11,14,8,2,1,6,0,1
+2023-12-20,Heidenheim,Freiburg,H,14,10,3,4,20,12,7,4,3,4,0,0
+2023-12-20,Leverkusen,Bochum,H,15,6,8,1,7,12,4,3,0,2,0,0
+2023-12-20,Stuttgart,Augsburg,H,17,6,7,5,8,14,4,4,0,4,0,0
+2023-12-20,Wolfsburg,Bayern Munich,A,5,20,4,7,14,12,0,6,4,2,0,0
+2024-01-12,Bayern Munich,Hoffenheim,H,27,12,12,4,8,6,11,2,1,3,0,1
+2024-01-13,Augsburg,Leverkusen,A,2,25,0,6,11,4,0,12,3,1,0,0
+2024-01-13,FC Koln,Heidenheim,D,13,10,6,2,12,11,9,6,2,1,0,0
+2024-01-13,Freiburg,Union Berlin,D,14,8,4,4,7,9,4,3,0,2,0,0
+2024-01-13,Mainz,Wolfsburg,D,12,9,4,4,21,16,7,3,3,4,0,0
+2024-01-13,RB Leipzig,Ein Frankfurt,A,26,5,7,1,7,16,15,4,0,2,0,0
+2024-01-13,Darmstadt,Dortmund,A,10,17,2,8,10,13,3,4,1,3,0,0
+2024-01-14,Bochum,Werder Bremen,D,13,15,4,4,14,14,3,4,6,5,0,0
+2024-01-14,M'gladbach,Stuttgart,H,8,14,4,2,7,11,0,3,3,3,0,0
+2024-01-20,Bochum,Stuttgart,H,6,17,1,4,16,16,1,7,5,3,0,0
+2024-01-20,FC Koln,Dortmund,A,16,11,5,7,16,7,13,4,2,2,0,0
+2024-01-20,RB Leipzig,Leverkusen,A,11,18,6,5,11,11,1,9,2,3,0,0
+2024-01-20,Darmstadt,Ein Frankfurt,D,13,7,3,4,11,7,4,1,1,1,0,0
+2024-01-20,Freiburg,Hoffenheim,H,16,16,8,4,18,10,2,2,3,3,1,0
+2024-01-20,Heidenheim,Wolfsburg,D,12,12,3,3,11,10,4,2,0,1,0,0
+2024-01-21,Bayern Munich,Werder Bremen,A,21,8,6,3,12,7,10,2,2,1,0,0
+2024-01-21,M'gladbach,Augsburg,A,18,15,4,7,10,20,5,7,1,2,0,0
+2024-01-24,Bayern Munich,Union Berlin,H,24,4,10,1,5,9,12,1,2,4,0,0
+2024-01-26,Ein Frankfurt,Mainz,H,13,7,4,0,10,12,2,1,2,1,0,0
+2024-01-27,Leverkusen,M'gladbach,D,28,4,8,3,15,6,8,2,3,1,0,0
+2024-01-27,Wolfsburg,FC Koln,D,12,6,5,2,17,12,6,3,5,3,0,0
+2024-01-27,Werder Bremen,Freiburg,H,14,7,4,4,14,10,5,5,2,1,0,0
+2024-01-27,Augsburg,Bayern Munich,A,14,13,7,4,12,11,4,5,2,6,0,0
+2024-01-27,Stuttgart,RB Leipzig,H,19,4,11,2,9,11,9,3,1,4,0,0
+2024-01-27,Hoffenheim,Heidenheim,D,20,15,8,3,11,13,9,5,4,0,0,0
+2024-01-28,Union Berlin,Darmstadt,H,19,15,6,1,13,9,4,3,3,2,0,0
+2024-01-28,Dortmund,Bochum,H,15,10,6,4,10,16,8,4,1,3,0,0
+2024-02-02,Heidenheim,Dortmund,D,11,13,0,5,7,7,4,6,0,2,0,0
+2024-02-03,Mainz,Werder Bremen,A,20,6,5,1,22,16,11,1,4,3,0,0
+2024-02-03,FC Koln,Ein Frankfurt,H,14,11,4,4,8,13,7,7,1,4,0,2
+2024-02-03,Darmstadt,Leverkusen,A,8,18,6,7,14,8,4,3,2,2,0,0
+2024-02-03,Bochum,Augsburg,D,9,12,4,6,17,14,3,5,3,1,0,0
+2024-02-03,Bayern Munich,M'gladbach,H,21,11,6,4,11,9,6,5,0,1,0,0
+2024-02-03,Freiburg,Stuttgart,A,7,17,4,9,10,7,1,6,4,2,1,0
+2024-02-04,Wolfsburg,Hoffenheim,D,14,17,8,7,12,16,7,2,2,3,0,0
+2024-02-04,RB Leipzig,Union Berlin,H,16,10,6,2,13,11,5,4,1,2,0,1
+2024-02-07,Mainz,Union Berlin,D,16,15,7,4,14,15,8,3,2,4,0,0
+2024-02-09,Dortmund,Freiburg,H,17,6,8,3,13,7,5,3,2,0,0,0
+2024-02-10,Leverkusen,Bayern Munich,H,14,8,8,1,13,13,4,6,3,2,0,0
+2024-02-10,Werder Bremen,Heidenheim,A,14,10,3,3,10,13,5,10,1,2,0,0
+2024-02-10,M'gladbach,Darmstadt,D,22,10,8,1,11,15,7,2,0,5,0,0
+2024-02-10,Ein Frankfurt,Bochum,D,8,14,2,5,6,12,8,3,2,2,0,0
+2024-02-10,Augsburg,RB Leipzig,D,11,9,4,6,15,10,1,3,5,1,0,0
+2024-02-10,Union Berlin,Wolfsburg,H,7,15,2,5,12,9,6,10,1,2,0,0
+2024-02-11,Stuttgart,Mainz,H,10,16,7,6,7,9,4,5,1,1,0,0
+2024-02-11,Hoffenheim,FC Koln,D,10,5,4,1,12,13,10,3,3,4,0,0
+2024-02-16,FC Koln,Werder Bremen,A,10,13,2,4,16,11,5,3,4,4,0,0
+2024-02-17,RB Leipzig,M'gladbach,H,16,13,9,0,12,13,8,4,1,5,0,0
+2024-02-17,Wolfsburg,Dortmund,D,9,12,4,5,18,5,5,3,3,1,0,0
+2024-02-17,Heidenheim,Leverkusen,A,6,17,3,4,15,5,4,5,2,1,0,0
+2024-02-17,Hoffenheim,Union Berlin,A,16,10,4,3,10,7,6,2,3,4,1,1
+2024-02-17,Mainz,Augsburg,H,19,10,4,4,8,16,7,7,3,2,0,1
+2024-02-17,Darmstadt,Stuttgart,A,21,13,9,4,15,14,5,3,4,5,0,1
+2024-02-18,Freiburg,Ein Frankfurt,D,13,10,8,6,8,10,6,1,0,0,0,0
+2024-02-18,Bochum,Bayern Munich,H,14,26,5,10,12,10,4,9,2,4,0,1
+2024-02-23,Leverkusen,Mainz,H,18,13,7,4,14,16,11,2,3,5,0,1
+2024-02-24,M'gladbach,Bochum,H,22,15,6,5,13,13,5,6,2,4,0,0
+2024-02-24,Stuttgart,FC Koln,D,13,12,5,6,11,13,9,4,1,0,0,0
+2024-02-24,Union Berlin,Heidenheim,D,12,9,3,4,9,12,4,2,2,1,0,0
+2024-02-24,Bayern Munich,RB Leipzig,H,16,11,4,5,11,10,6,4,3,3,0,0
+2024-02-24,Werder Bremen,Darmstadt,D,13,11,4,3,10,13,4,6,3,4,0,0
+2024-02-25,Ein Frankfurt,Wolfsburg,D,12,14,5,8,9,7,5,3,2,1,0,0
+2024-02-25,Dortmund,Hoffenheim,A,19,7,7,5,7,10,10,3,2,3,0,0
+2024-02-25,Augsburg,Freiburg,H,21,5,8,1,16,11,10,2,3,1,0,0
+2024-03-01,Freiburg,Bayern Munich,D,17,21,5,9,11,7,3,6,1,2,0,0
+2024-03-02,Union Berlin,Dortmund,A,13,12,5,7,11,8,8,7,2,1,0,0
+2024-03-02,Wolfsburg,Stuttgart,A,12,7,2,3,20,12,5,4,3,2,0,0
+2024-03-02,Mainz,M'gladbach,D,21,14,5,5,12,15,12,6,5,1,1,0
+2024-03-02,Darmstadt,Augsburg,A,10,21,5,6,4,12,3,6,2,0,0,0
+2024-03-02,Bochum,RB Leipzig,A,15,10,4,4,13,10,2,5,3,2,1,0
+2024-03-02,Heidenheim,Ein Frankfurt,A,16,11,3,6,6,10,7,3,1,4,0,0
+2024-03-03,FC Koln,Leverkusen,A,6,17,0,6,10,9,1,9,2,2,1,0
+2024-03-03,Hoffenheim,Werder Bremen,H,14,18,7,8,11,10,3,3,5,1,1,0
+2024-03-08,Stuttgart,Union Berlin,H,14,10,5,4,7,14,4,3,1,2,0,1
+2024-03-09,Werder Bremen,Dortmund,A,15,13,5,6,6,8,10,4,1,2,0,1
+2024-03-09,RB Leipzig,Darmstadt,H,28,9,8,4,3,14,8,4,0,3,0,0
+2024-03-09,Bayern Munich,Mainz,H,25,13,12,3,8,7,6,7,1,1,0,0
+2024-03-09,Augsburg,Heidenheim,H,8,6,4,1,14,20,5,2,1,3,0,0
+2024-03-09,M'gladbach,FC Koln,D,16,12,5,5,15,15,8,3,3,4,0,0
+2024-03-10,Bochum,Freiburg,A,18,9,6,5,11,11,12,5,3,7,0,0
+2024-03-10,Ein Frankfurt,Hoffenheim,H,17,6,7,2,11,10,5,1,2,3,0,2
+2024-03-10,Leverkusen,Wolfsburg,H,19,2,7,1,6,7,9,2,1,3,0,1
+2024-03-15,FC Koln,RB Leipzig,A,9,23,2,7,11,12,3,6,2,2,0,0
+2024-03-16,Hoffenheim,Stuttgart,A,8,25,1,12,8,12,5,6,1,0,0,0
+2024-03-16,Union Berlin,Werder Bremen,H,11,10,5,2,16,16,4,3,3,5,0,0
+2024-03-16,Wolfsburg,Augsburg,A,15,14,4,5,12,19,8,6,1,3,1,0
+2024-03-16,Heidenheim,M'gladbach,D,16,6,5,2,16,8,10,4,1,3,0,0
+2024-03-16,Mainz,Bochum,H,13,11,4,4,15,15,7,6,4,3,0,0
+2024-03-16,Darmstadt,Bayern Munich,A,7,26,3,6,9,6,2,9,1,0,0,0
+2024-03-17,Freiburg,Leverkusen,A,9,18,3,7,13,6,2,8,1,0,0,0
+2024-03-17,Dortmund,Ein Frankfurt,H,16,8,6,6,5,9,8,3,1,2,0,0
+2024-03-30,Ein Frankfurt,Union Berlin,D,18,10,4,2,8,14,6,2,3,1,0,0
+2024-03-30,Leverkusen,Hoffenheim,H,36,6,12,2,9,8,9,2,0,1,0,0
+2024-03-30,M'gladbach,Freiburg,A,18,13,4,8,11,7,14,1,1,0,0,0
+2024-03-30,RB Leipzig,Mainz,D,23,8,10,2,10,15,12,2,2,5,0,0
+2024-03-30,Werder Bremen,Wolfsburg,A,6,15,1,5,13,15,3,6,4,4,1,1
+2024-03-30,Bayern Munich,Dortmund,A,16,11,3,5,7,7,7,4,0,0,0,0
+2024-03-31,Augsburg,FC Koln,D,24,12,6,2,9,13,12,6,0,3,0,0
+2024-03-31,Stuttgart,Heidenheim,D,20,6,6,3,5,9,6,7,1,0,0,1
+2024-03-31,Bochum,Darmstadt,D,20,13,7,3,7,15,6,5,2,2,0,0
+2024-04-05,Ein Frankfurt,Werder Bremen,D,19,10,5,7,10,14,9,0,3,2,1,1
+2024-04-06,Union Berlin,Leverkusen,A,8,19,1,8,10,14,7,10,3,2,1,0
+2024-04-06,Mainz,Darmstadt,H,18,14,9,2,16,9,5,1,2,3,0,0
+2024-04-06,Dortmund,Stuttgart,A,14,10,7,2,8,8,8,3,2,4,0,0
+2024-04-06,Freiburg,RB Leipzig,A,15,15,4,6,7,12,8,4,3,4,0,0
+2024-04-06,Heidenheim,Bayern Munich,H,9,15,4,8,9,8,3,3,2,0,0,0
+2024-04-06,FC Koln,Bochum,H,17,8,6,2,16,13,9,4,3,3,0,0
+2024-04-07,Hoffenheim,Augsburg,H,17,14,6,7,8,14,11,6,3,1,0,0
+2024-04-07,Wolfsburg,M'gladbach,A,13,10,4,6,9,12,4,4,2,2,0,0
+2024-04-12,Augsburg,Union Berlin,H,12,17,4,4,15,14,5,4,1,1,0,0
+2024-04-13,RB Leipzig,Wolfsburg,H,15,10,6,3,12,7,6,4,2,4,0,0
+2024-04-13,M'gladbach,Dortmund,A,16,12,5,4,13,11,2,4,1,4,0,1
+2024-04-13,Stuttgart,Ein Frankfurt,H,9,10,6,3,4,15,4,5,1,3,0,0
+2024-04-13,Bochum,Heidenheim,D,24,10,5,3,12,22,6,2,4,1,0,0
+2024-04-13,Bayern Munich,FC Koln,H,17,11,7,5,3,15,5,5,0,3,0,0
+2024-04-13,Mainz,Hoffenheim,H,23,5,8,1,12,14,9,3,0,2,0,0
+2024-04-14,Darmstadt,Freiburg,A,16,9,4,3,6,12,2,2,0,1,0,0
+2024-04-14,Leverkusen,Werder Bremen,H,19,7,10,3,10,4,7,0,2,1,0,0
+2024-04-19,Ein Frankfurt,Augsburg,H,12,6,7,1,2,19,6,5,3,3,0,0
+2024-04-20,FC Koln,Darmstadt,A,18,12,4,6,10,13,4,3,0,1,0,0
+2024-04-20,Heidenheim,RB Leipzig,A,9,11,5,4,14,7,2,6,3,1,0,0
+2024-04-20,Hoffenheim,M'gladbach,H,27,13,9,7,6,11,6,5,1,3,0,0
+2024-04-20,Wolfsburg,Bochum,H,10,9,5,1,11,16,5,8,4,3,0,0
+2024-04-20,Union Berlin,Bayern Munich,A,15,18,4,9,5,4,5,3,0,0,0,0
+2024-04-21,Freiburg,Mainz,D,7,17,3,4,17,15,2,4,3,4,0,0
+2024-04-21,Dortmund,Leverkusen,D,9,13,2,5,14,11,2,6,4,3,0,0
+2024-04-21,Werder Bremen,Stuttgart,H,9,14,2,5,11,10,1,7,3,3,0,0
+2024-04-26,Bochum,Hoffenheim,H,35,12,13,4,13,10,10,4,1,1,0,0
+2024-04-27,Bayern Munich,Ein Frankfurt,H,19,10,9,3,11,7,4,2,0,3,0,0
+2024-04-27,Freiburg,Wolfsburg,A,16,13,3,5,12,7,3,6,4,2,1,0
+2024-04-27,RB Leipzig,Dortmund,H,21,12,7,5,11,7,5,8,1,2,0,0
+2024-04-27,Leverkusen,Stuttgart,D,14,11,6,4,10,19,5,2,4,3,0,0
+2024-04-27,Augsburg,Werder Bremen,A,14,16,1,8,18,8,6,4,1,2,0,0
+2024-04-28,M'gladbach,Union Berlin,D,13,14,4,7,3,13,3,4,2,2,0,0
+2024-04-28,Mainz,FC Koln,D,16,16,4,6,17,13,6,6,4,4,1,0
+2024-04-28,Darmstadt,Heidenheim,A,12,19,4,6,14,12,3,8,2,1,0,0
+2024-05-03,Hoffenheim,RB Leipzig,D,18,8,8,5,6,8,4,4,1,3,0,1
+2024-05-04,Stuttgart,Bayern Munich,H,24,10,11,3,10,8,3,1,1,2,0,0
+2024-05-04,Werder Bremen,M'gladbach,D,17,17,6,7,6,7,7,2,0,0,0,0
+2024-05-04,Wolfsburg,Darmstadt,H,18,6,6,1,11,13,9,2,0,3,0,0
+2024-05-04,FC Koln,Freiburg,D,20,4,7,0,10,9,7,1,1,1,0,0
+2024-05-04,Dortmund,Augsburg,H,21,20,10,4,4,11,6,9,0,1,0,0
+2024-05-05,Union Berlin,Bochum,A,12,17,6,5,13,16,6,4,0,1,0,0
+2024-05-05,Ein Frankfurt,Leverkusen,A,16,10,5,6,10,4,10,5,0,0,0,0
+2024-05-05,Heidenheim,Mainz,D,16,10,6,4,8,8,6,3,2,3,0,0
+2024-05-10,Augsburg,Stuttgart,A,9,19,1,7,15,9,5,5,4,2,0,0
+2024-05-11,Freiburg,Heidenheim,D,19,9,3,3,9,11,2,4,1,1,0,0
+2024-05-11,M'gladbach,Ein Frankfurt,D,6,16,3,1,9,10,2,8,1,0,0,0
+2024-05-11,RB Leipzig,Werder Bremen,D,13,10,5,1,12,6,4,3,1,0,0,0
+2024-05-11,Mainz,Dortmund,H,14,10,6,2,14,11,4,2,2,2,0,0
+2024-05-11,FC Koln,Union Berlin,H,18,14,5,6,15,16,6,8,3,2,0,0
+2024-05-12,Darmstadt,Hoffenheim,A,9,12,1,7,9,3,2,3,3,0,0,0
+2024-05-12,Bayern Munich,Wolfsburg,H,5,5,3,2,7,8,4,0,0,2,0,0
+2024-05-12,Bochum,Leverkusen,A,2,28,0,10,5,10,2,6,2,1,1,0
+2024-05-18,Werder Bremen,Bochum,H,25,26,12,8,12,12,8,8,1,1,0,0
+2024-05-18,Union Berlin,Freiburg,H,14,11,5,5,14,9,3,7,7,4,0,0
+2024-05-18,Stuttgart,M'gladbach,H,21,13,11,5,4,9,8,4,1,2,0,0
+2024-05-18,Ein Frankfurt,RB Leipzig,D,19,9,6,5,10,11,8,3,2,2,0,0
+2024-05-18,Hoffenheim,Bayern Munich,H,17,12,9,4,7,9,6,5,3,1,0,0
+2024-05-18,Heidenheim,FC Koln,H,13,19,7,9,9,20,5,12,1,3,0,0
+2024-05-18,Dortmund,Darmstadt,H,21,7,10,1,4,10,7,3,0,3,0,0
+2024-05-18,Leverkusen,Augsburg,H,19,8,8,2,6,7,5,4,0,1,0,0
+2024-05-18,Wolfsburg,Mainz,A,12,12,4,6,13,15,1,3,2,3,0,0
